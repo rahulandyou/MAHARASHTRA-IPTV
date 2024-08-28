@@ -1,0 +1,75 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="0001" tvg-name="SONY TV HD" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_HD.png" group-title="SONY",SONY TV HD
+https://allinonereborn.com/livetv-web/live.php?id=624&vtoken=&e=.m3u8
+#EXTINF:-1 tvg-id="0002" tvg-name="SONY SAB HD" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_SAB_HD.png" group-title="SONY",SONY SAB HD
+https://yuvraj.fun/sliv/index.m3u8?ch=SABHD&id=2011749
+#EXTINF:-1 tvg-id="0003" tvg-name="SONY SAB USA" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_SAB_HD.png" group-title="SONY",SONY SAB USA
+https://allinonereborn.com/livetv-web/live.php?id=4680&vtoken=&e=.m3u8
+#EXTINF:-1 tvg-id="0004" tvg-name="SONY PAL" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Pal.png" group-title="SONY",SONY PAL
+https://yuvraj.fun/sliv/index.m3u8?ch=SonyPalSD&id=2011741
+#EXTINF:-1 tvg-id="0004" tvg-name="SONY MAX HD" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Max_HD.png" group-title="SONY",SONY MAX HD
+https://yuvraj.fun/sliv/index.m3u8?ch=SonyMaxhd&id=2011670
+#EXTINF:-1 tvg-id="0006" tvg-name="SONY MAX 2" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_MAX2.png" group-title="SONY",SONY MAX 2
+https://yuvraj.fun/sliv/index.m3u8?ch=MAX2&id=2011908
+#EXTINF:-1 tvg-id="0007" tvg-name="SONY WAH" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Wah.png" group-title="SONY",SONY WAH
+https://allinonereborn.com/livetv-web/live.php?id=962&vtoken=&e=.m3u8
+#EXTINF:-1 tvg-id="0008" tvg-name="SONY BBC EARTH HD" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_BBC_Earth_HD.png" group-title="SONY",SONY BBC EARTH HD
+https://yuvraj.fun/sliv/index.m3u8?ch=SonyBBCEarthHD&id=2011907
+#EXTINF:-1 tvg-id="0009" tvg-name="SONY Yah" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Yay_Hindi.png" group-title="SONY",SONY Yah
+https://yuvraj.fun/sliv/index.m3u8?ch=SonyYaySD&id=2011746
+#EXTINF:-1 tvg-id="0010" tvg-name="SONY PIX HD" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Pix_HD.png" group-title="SONY",SONY PIX HD
+https://yuvraj.fun/sliv/index.m3u8?ch=PIXHD&id=2011748
+#EXTINF:-1 tvg-id="0011" tvg-name="SONY Marathi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Marathi_SD.png" group-title="SONY",SONY Marathi
+https://allinonereborn.com/livetv-web/live.php?id=896&vtoken=&e=.m3u8
+#EXTINF:-1 tvg-id="0012" tvg-name="SONY SIX HD" tvg-logo="https://seeklogo.com/images/S/sony-six-logo-B3C9355080-seeklogo.com.png" group-title="SONY",SONY SIX HD
+https://allinonereborn.com/livetv-web/live.php?id=709&vtoken=&e=.m3u8
+#EXTINF:-1 tvg-id="0013" tvg-name="SONY SPORT 1" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Ten_HD.png" group-title="SONY",SONY SPORT 1
+https://allinonereborn.com/livetv-web/live.php?id=673&vtoken=&e=.m3u8
+#EXTINF:-1 tvg-id="0014" tvg-name="SONY SPORT 2" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Ten2_HD.png" group-title="SONY",SONY SPORT 2
+https://allinonereborn.com/livetv-web/live.php?id=674&vtoken=&e=.m3u8
+#EXTINF:-1 tvg-id="0015" tvg-name="SONY SPORT 3" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Ten3_HD.png" group-title="SONY",SONY SPORT 3
+https://yuvraj.fun/sliv/index.m3u8?ch=TEN3HD&id=2020591
+#EXTINF:-1 tvg-id="0016" tvg-name="SONY SPORT 4" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen4_HD_Logo_CLR.png" group-title="SONY",SONY SPORT 4
+https://allinonereborn.com/livetv-web/live.php?id=23454&vtoken=&e=.m3u8
+#EXTINF:-1 tvg-id="0017" tvg-name="SONY SPORT 5" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen5_HD_Logo_CLR.png" group-title="SONY",SONY SPORT 5
+https://yuvraj.fun/sliv/index.m3u8?ch=SONYSIXHD&id=2020593
+#EXTINF:-1 tvg-id="0018" tvg-name="STAR PLUS HD" tvg-logo="https://w7.pngwing.com/pngs/591/520/png-transparent-star-plus-star-india-television-show-television-channel-net.png" group-title="STAR",STAR PLUS HD
+https://allinonereborn.com/livetv-web/live.php?id=648&vtoken=&e=.m3u8
+#EXTINF:-1 tvg-id="0019" tvg-name="STAR BHARAT HD" tvg-logo="https://www.pngitem.com/pimgs/m/3-33128_star-bharat-graphic-design-hd-png-download.png" group-title="STAR",STAR BHARAT HD
+https://allinonereborn.com/livetv-web/live.php?id=724&vtoken=&e=.m3u8
+#EXTINF:-1 tvg-id="0020" tvg-name="STAR GOLD HD" tvg-logo="https://seeklogo.com/images/S/star-gold-logo-D1A2937F35-seeklogo.com.png" group-title="STAR",STAR GOLD HD
+https://allinonereborn.com/livetv-web/live.php?id=646&vtoken=&e=.m3u8
+#EXTINF:-1 tvg-id="0021" tvg-name="STAR GOLD 2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cc/Star_Gold_2.svg" group-title="STAR",STAR GOLD 2 HD
+https://allinonereborn.com/livetv-web/live.php?id=5106&vtoken=&e=.m3u8
+#EXTINF:-1 tvg-id="0022" tvg-name="STAR GOLD SELECT HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2f/Star_Gold_Select_HD.svg/revision/latest?cb=20211216003639" group-title="STAR",STAR GOLD SELECT HD
+https://allinonereborn.com/livetv-web/live.php?id=647&vtoken=&e=.m3u8
+#EXTINF:-1 tvg-id="0023" tvg-name="STAR USTAV MOVIES" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6a/SUMovies.jpg" group-title="STAR",STAR USTAV MOVIES
+https://allinonereborn.com/livetv-web/live.php?id=804&vtoken=&e=.m3u8
+#EXTINF:-1 tvg-id="0024" tvg-name="STAR USTAV " tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Star_Utsav_SD.png" group-title="STAR",STAR USTAV
+https://allinonereborn.com/livetv-web/live.php?id=754&vtoken=&e=.m3u8
+#EXTINF:-1 tvg-id="0025" tvg-name="STAR MOVIES HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/54/STAR_Movies_logo.svg" group-title="STAR",STAR MOVIES HD
+https://allinonereborn.com/livetv-web/live.php?id=2714&vtoken=&e=.m3u8
+#EXTINF:-1 tvg-id="0026" tvg-name="STAR MOVIES SELECT HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Star_Movies_Select_HD.png" group-title="STAR",STAR MOVIES SELECT HD
+https://allinonereborn.com/livetv-web/live.php?id=2719&vtoken=&e=.m3u8
+#EXTINF:-1 tvg-id="0027" tvg-name="STAR PRAVAH HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Star_Pravah_2023.png/640px-Star_Pravah_2023.png" group-title="STAR",STAR PRAVAH HD
+https://allinonereborn.com/livetv-web/live.php?id=666&vtoken=&e=.m3u8
+#EXTINF:-1 tvg-id="0028" tvg-name="STAR SPORTS 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Star_Sports_1_HD.png/2560px-Star_Sports_1_HD.png" group-title="STAR",STAR SPORTS 1 HD
+https://allinonereborn.com/livetv-web/live.php?id=669&vtoken=&e=.m3u8
+#EXTINF:-1 tvg-id="0029" tvg-name="STAR SPORTS 1 HINDI HD" tvg-logo="https://smartads.in/resources/assets/uploads/product_group/television/star-sports-1-hindi-hd.jpg" group-title="STAR",STAR SPORTS 1 HINDI HD
+https://allinonereborn.com/livetv-web/live.php?id=650&vtoken=&e=.m3u8
+#EXTINF:-1 tvg-id="0030" tvg-name="STAR SPORTS 2 HD" tvg-logo="https://smartads.in/resources/assets/uploads/product_group/television/star-sports-hd2.png" group-title="STAR",STAR SPORTS 2 HD
+https://allinonereborn.com/livetv-web/live.php?id=670&vtoken=&e=.m3u8
+#EXTINF:-1 tvg-id="0031" tvg-name="STAR SPORTS 3" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2a/StarSports3India.jpg/revision/latest?cb=20191214234112" group-title="STAR",STAR SPORTS 3
+https://allinonereborn.com/livetv-web/live.php?id=858&vtoken=&e=.m3u8
+#EXTINF:-1 tvg-id="0032" tvg-name="STAR SPORTS SELECT 1 HD" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/Sw1Oz8Ts.png" group-title="STAR",STAR SPORTS SELECT 1 HD
+https://allinonereborn.com/livetv-web/live.php?id=671&vtoken=&e=.m3u8
+#EXTINF:-1 tvg-id="0033" tvg-name="STAR SPORTS SELECT 2 HD" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/ZbeAUOdK.png" group-title="STAR",STAR SPORTS SELECT 2 HD
+https://allinonereborn.com/livetv-web/live.php?id=710&vtoken=&e=.m3u8
+#EXTINF:-1 tvg-id="0034" tvg-name="NGC HD" tvg-logo="https://w7.pngwing.com/pngs/86/425/png-transparent-roku-national-geographic-television-channel-nat-geo-fox-hd-national-geographic-television-angle-text-thumbnail.png" group-title="STAR",NGC HD
+https://allinonereborn.com/livetv-web/live.php?id=642&vtoken=&e=.m3u8
+#EXTINF:-1 tvg-id="0035" tvg-name="NGC Wild HD" tvg-logo="https://w7.pngwing.com/pngs/925/173/png-transparent-nat-geo-wild-television-channel-national-geographic-television-show-live-stream-television-text-logo.png" group-title="STAR",NGC Wild HD
+https://allinonereborn.com/livetv-web/live.php?id=628&vtoken=&e=.m3u8
+#EXTINF:-1 tvg-id="0036" tvg-name="Disney Channel" tvg-logo="https://w7.pngwing.com/pngs/248/218/png-transparent-disney-channel-the-walt-disney-company-television-show-disney-junior-disney-channel-games-television-blue-text.png" group-title="STAR",Disney Channel
+https://allinonereborn.com/livetv-web/live.php?id=864&vtoken=&e=.m3u8
+#EXTINF:-1 tvg-id="0037" tvg-name="Star Life HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3e/StarLife.jpg" group-title="STAR",Star Life HD
+https://allinonereborn.com/livetv-web/live.php?id=1389&vtoken=&e=.m3u8
