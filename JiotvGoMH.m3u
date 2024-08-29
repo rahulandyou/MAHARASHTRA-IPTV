@@ -223,8 +223,6 @@ http://localhost:5001/live/578.m3u8
 http://localhost:5001/live/146.m3u8
 #EXTINF:-1 tvg-name="dw"tvg-logo="http://localhost:5001/jtvimage/dw.png"group-title="Infotainment",dw
 https://allinonereborn.com/livetv-web/live.php?id=1957&vtoken=&e=.m3u8
-#EXTINF:-1 tvg-name="Sony BBC EARTH HD"tvg-logo="https://tvwish.com/img/channel/696.jpg"group-title="Infotainment",Sony BBC EARTH HD
-https://yuvraj.fun/sliv/index.m3u8?ch=SonyBBCEarthHD&id=2011907
 #EXTINF:-1 tvg-name="Discovery Turbo"tvg-logo="http://localhost:5001/jtvimage/Discovery_Turbo.png"group-title="Infotainment",Discovery Turbo
 http://localhost:5001/live/541.m3u8
 #EXTINF:-1 tvg-name="Discovery Science HD"tvg-logo="http://localhost:5001/jtvimage/Discovery_Science.png"group-title="Infotainment",Discovery Science HD
@@ -251,6 +249,8 @@ http://localhost:5001/live/566.m3u8
 http://localhost:5001/live/286.m3u8
 #EXTINF:-1 tvg-name="Animal Planet English"tvg-logo="http://localhost:5001/jtvimage/Animal_Planet_English.png"group-title="Infotainment",Animal Planet English
 http://localhost:5001/live/567.m3u8
+#EXTINF:-1 tvg-name="Sony BBC EARTH HD"tvg-logo="https://tvwish.com/img/channel/696.jpg"group-title="Infotainment",Sony BBC EARTH HD
+https://yuvraj.fun/sliv/index.m3u8?ch=SonyBBCEarthHD&id=2011907
 #EXTINF:-1 tvg-name="The Q Kahaniyan"tvg-logo="http://localhost:5001/jtvimage/The_Q_Kahaniyan.png"group-title="Kids",The Q Kahaniyan
 http://localhost:5001/live/1920.m3u8
 #EXTINF:-1 tvg-name="TEST14 HD"tvg-logo="http://localhost:5001/jtvimage/TEST14_HD.png"group-title="Kids",TEST14 HD
@@ -439,6 +439,22 @@ http://localhost:5001/live/1839.m3u8
 http://localhost:5001/live/2189.m3u8
 #EXTINF:-1 tvg-name="&Xplore HD"tvg-logo="http://localhost:5001/jtvimage/And_Xplore_HD.png"group-title="Movies",&Xplore HD
 http://localhost:5001/live/1668.m3u8
+#EXTINF:-1 tvg-name="Bollywood Classic Cinema "tvg-logo=""group-title="Movies",Bollywood Classic Cinema 
+https://allinonereborn.com/livetv-web/live.php?id=5169&vtoken=&e=.m3u8
+#EXTINF:-1 tvg-name="Bollywood Premier HD"tvg-logo=""group-title="Movies",Bollywood Premier HD
+https://allinonereborn.com/livetv-web/live.php?id=6211&vtoken=&e=.m3u8
+#EXTINF:-1 tvg-name="Bollywood NonStop HD"tvg-logo=""group-title="Movies",Bollywood NonStop HD
+https://allinonereborn.com/livetv-web/live.php?id=5714&vtoken=&e=.m3u8
+#EXTINF:-1 tvg-name="Bollywood Hit HD"tvg-logo=""group-title="Movies",Bollywood Hit HD
+https://allinonereborn.com/livetv-web/live.php?id=5234&vtoken=&e=.m3u8
+#EXTINF:-1 tvg-name="Hindi Cinema 1 HD"tvg-logo=""group-title="Movies",Hindi Cinema 1 HD
+https://allinonereborn.com/livetv-web/live.php?id=20382&vtoken=&e=.m3u8
+#EXTINF:-1 tvg-name="Hindi Cinema 2 HD"tvg-logo=""group-title="Movies",Hindi Cinema 2 HD
+https://allinonereborn.com/livetv-web/live.php?id=20387&vtoken=&e=.m3u8
+#EXTINF:-1 tvg-name="Hindi Cinema 3 HD"tvg-logo=""group-title="Movies",Hindi Cinema 3 HD
+https://allinonereborn.com/livetv-web/live.php?id=20392&vtoken=&e=.m3u8
+#EXTINF:-1 tvg-name="Hindi Cinema 4 HD"tvg-logo=""group-title="Movies",Hindi Cinema 4 HD
+https://allinonereborn.com/livetv-web/live.php?id=20397&vtoken=&e=.m3u8
 #EXTINF:-1 tvg-name="ZOOM"tvg-logo="http://localhost:5001/jtvimage/Zoom.png"group-title="Music",ZOOM
 http://localhost:5001/live/592.m3u8
 #EXTINF:-1 tvg-name="Zing"tvg-logo="http://localhost:5001/jtvimage/Zing.png"group-title="Music",Zing
