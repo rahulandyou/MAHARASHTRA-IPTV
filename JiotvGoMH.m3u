@@ -235,6 +235,8 @@ http://localhost:5001/live/575.m3u8
 http://localhost:5001/live/463.m3u8
 #EXTINF:-1 tvg-name="Discovery"tvg-logo="http://localhost:5001/jtvimage/Discovery_Channel_English.png"group-title="Infotainment",Discovery
 http://localhost:5001/live/242.m3u8
+#EXTINF:-1 tvg-name="CGTN Documentary"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/CGTN_Documentary_logo.png"group-title="Infotainment",CGTN Documentary
+https://english-livetx.cgtn.com/hls/yypdjlctzb_hd.m3u8
 #EXTINF:-1 tvg-name="Desi Tashan TV"tvg-logo="http://localhost:5001/jtvimage/Desi_Tashan_TV.png"group-title="Infotainment",Desi Tashan TV
 http://localhost:5001/live/3061.m3u8
 #EXTINF:-1 tvg-name="DD Kisan"tvg-logo="http://localhost:5001/jtvimage/DD_Kisan.png"group-title="Infotainment",DD Kisan
@@ -908,7 +910,9 @@ http://localhost:5001/live/2082.m3u8
 #EXTINF:-1 tvg-name="Aaj Tak HD"tvg-logo="https://toppng.com/uploads/preview/aaj-tak-logo-11550710006ti5wtxlvvp.png"group-title="News",Aaj Tak HD
 https://aajtakhdlive-amd.akamaized.net/hls/live/2014415/aajtakhd/aajtakhdlive/live_1080p/chunks.m3u8
 #EXTINF:-1 tvg-name="ABP News HD"tvg-logo="http://localhost:5001/jtvimage/ABP_News_India.png"group-title="News",ABP News HD
-https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/abp-news/ce808576-c0dd-4771-a536-be3a190fa272/2.m3u8
+https://abplivetv.akamaized.net/hls/live/2043010/hindi/master_720.m3u8
+#EXTINF:-1 tvg-name="SANSAD TV HD 1"tvg-logo="http://localhost:5001/jtvimage/DD_Rajyasabha.png"group-title="News",SANSAD TV HD 1
+https://playhls.media.nic.in/live/lstv/index.m3u8
 #EXTINF:-1 tvg-name="TEST8 HD"tvg-logo="http://localhost:5001/jtvimage/TEST8_HD.png"group-title="Shopping",TEST8 HD
 http://localhost:5001/live/1148.m3u8
 #EXTINF:-1 tvg-name="TEST5 HD"tvg-logo="http://localhost:5001/jtvimage/TEST5_HD.png"group-title="Sports",TEST5 HD
