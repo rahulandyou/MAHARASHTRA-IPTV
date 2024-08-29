@@ -208,7 +208,7 @@ https://allinonereborn.com/livetv-web/live.php?id=1389&vtoken=&e=.m3u8
 #EXTINF:-1 tvg-name="NGC Wild HD"tvg-logo="https://w7.pngwing.com/pngs/925/173/png-transparent-nat-geo-wild-television-channel-national-geographic-television-show-live-stream-television-text-logo.png"group-title="Infotainment",NGC Wild HD
 https://allinonereborn.com/livetv-web/live.php?id=628&vtoken=&e=.m3u8
 #EXTINF:-1 tvg-name="NGC HD"tvg-logo="https://w7.pngwing.com/pngs/86/425/png-transparent-roku-national-geographic-television-channel-nat-geo-fox-hd-national-geographic-television-angle-text-thumbnail.png"group-title="Infotainment",NGC HD
-https://allinonereborn.com/livetv-web/live.php?id=642&vtoken=&e=.m3u8
+https://yuvraj43.xyz/web/manifest.php?id=605
 #EXTINF:-1 tvg-name="Narayana Health"tvg-logo="http://localhost:5001/jtvimage/Narayana_Health.png"group-title="Infotainment",Narayana Health
 http://localhost:5001/live/3013.m3u8
 #EXTINF:-1 tvg-name="Jio Events HD"tvg-logo="http://localhost:5001/jtvimage/Jio_Events.png"group-title="Infotainment",Jio Events HD
@@ -251,6 +251,8 @@ http://localhost:5001/live/286.m3u8
 http://localhost:5001/live/567.m3u8
 #EXTINF:-1 tvg-name="Sony BBC EARTH HD"tvg-logo="https://tvwish.com/img/channel/696.jpg"group-title="Infotainment",Sony BBC EARTH HD
 https://yuvraj.fun/sliv/index.m3u8?ch=SonyBBCEarthHD&id=2011907
+#EXTINF:-1 tvg-name="Military Time HD"tvg-logo="https://vets4warriors.com/wp-content/uploads/2022/12/Military-Times.png"group-title="Infotainment",Military Time HD
+https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/sightline/217c7466-dafe-441c-aba2-ebde7300d44e/0.m3u8
 #EXTINF:-1 tvg-name="The Q Kahaniyan"tvg-logo="http://localhost:5001/jtvimage/The_Q_Kahaniyan.png"group-title="Kids",The Q Kahaniyan
 http://localhost:5001/live/1920.m3u8
 #EXTINF:-1 tvg-name="TEST14 HD"tvg-logo="http://localhost:5001/jtvimage/TEST14_HD.png"group-title="Kids",TEST14 HD
@@ -295,12 +297,6 @@ http://localhost:5001/live/2948.m3u8
 http://localhost:5001/live/2757.m3u8
 #EXTINF:-1 tvg-name="Wellness"tvg-logo="http://localhost:5001/jtvimage/Wellness_TV.png"group-title="Lifestyle",Wellness
 http://localhost:5001/live/1292.m3u8
-#EXTINF:-1 tvg-name="DRONE TV HD"tvg-logo="https://channels.roku.com/images/18fcd39550984800b9aed5ffa9a1b421-hd.jpg"group-title="Lifestyle",DRONE TV HD
-https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/dronetv/1bd5845e-2deb-4b6d-8ec2-b85657f56797/0.m3u8
-#EXTINF:-1 tvg-name="Military Time HD"tvg-logo="https://vets4warriors.com/wp-content/uploads/2022/12/Military-Times.png"group-title="Infotainment",Military Time HD
-https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/sightline/217c7466-dafe-441c-aba2-ebde7300d44e/0.m3u8
-#EXTINF:-1 tvg-name="epic HD"tvg-logo="https://www.epic.com.mt/wp-content/uploads/2020/10/epic-logo.jpg"group-title="Lifestyle",epic HD
-https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/epic-tv/f417635a-ef90-4897-9cc9-de610605c53c/0.m3u8
 #EXTINF:-1 tvg-name="Travelxp HD Hindi"tvg-logo="http://localhost:5001/jtvimage/Travel_XP.png"group-title="Lifestyle",Travelxp HD Hindi
 http://localhost:5001/live/562.m3u8
 #EXTINF:-1 tvg-name="Travelxp HD"tvg-logo="http://localhost:5001/jtvimage/Travel_XP_HD.png"group-title="Lifestyle",Travelxp HD
@@ -327,6 +323,10 @@ http://localhost:5001/live/1955.m3u8
 http://localhost:5001/live/561.m3u8
 #EXTINF:-1 tvg-name="Fashion India"tvg-logo="http://localhost:5001/jtvimage/Fashion_India.png"group-title="Lifestyle",Fashion India
 http://localhost:5001/live/2031.m3u8
+#EXTINF:-1 tvg-name="DRONE TV HD"tvg-logo="https://channels.roku.com/images/18fcd39550984800b9aed5ffa9a1b421-hd.jpg"group-title="Lifestyle",DRONE TV HD
+https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/dronetv/1bd5845e-2deb-4b6d-8ec2-b85657f56797/0.m3u8
+#EXTINF:-1 tvg-name="epic HD"tvg-logo="https://www.epic.com.mt/wp-content/uploads/2020/10/epic-logo.jpg"group-title="Lifestyle",epic HD
+https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/epic-tv/f417635a-ef90-4897-9cc9-de610605c53c/0.m3u8
 #EXTINF:-1 tvg-name="Zee Yuva"tvg-logo="http://localhost:5001/jtvimage/Zee_Yuva.png"group-title="Marathi",Zee Yuva
 http://localhost:5001/live/414.m3u8
 #EXTINF:-1 tvg-name="Zee Talkies HD"tvg-logo="http://localhost:5001/jtvimage/Zee_Talkies_HD.png"group-title="Marathi",Zee Talkies HD
