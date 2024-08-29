@@ -295,6 +295,12 @@ http://localhost:5001/live/2948.m3u8
 http://localhost:5001/live/2757.m3u8
 #EXTINF:-1 tvg-name="Wellness"tvg-logo="http://localhost:5001/jtvimage/Wellness_TV.png"group-title="Lifestyle",Wellness
 http://localhost:5001/live/1292.m3u8
+#EXTINF:-1 tvg-name="DRONE TV HD"tvg-logo="https://channels.roku.com/images/18fcd39550984800b9aed5ffa9a1b421-hd.jpg"group-title="Lifestyle",DRONE TV HD
+https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/dronetv/1bd5845e-2deb-4b6d-8ec2-b85657f56797/0.m3u8
+#EXTINF:-1 tvg-name="Military Time HD"tvg-logo="https://vets4warriors.com/wp-content/uploads/2022/12/Military-Times.png"group-title="Infotainment",Military Time HD
+https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/sightline/217c7466-dafe-441c-aba2-ebde7300d44e/0.m3u8
+#EXTINF:-1 tvg-name="epic HD"tvg-logo="https://www.epic.com.mt/wp-content/uploads/2020/10/epic-logo.jpg"group-title="Lifestyle",epic HD
+https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/epic-tv/f417635a-ef90-4897-9cc9-de610605c53c/0.m3u8
 #EXTINF:-1 tvg-name="Travelxp HD Hindi"tvg-logo="http://localhost:5001/jtvimage/Travel_XP.png"group-title="Lifestyle",Travelxp HD Hindi
 http://localhost:5001/live/562.m3u8
 #EXTINF:-1 tvg-name="Travelxp HD"tvg-logo="http://localhost:5001/jtvimage/Travel_XP_HD.png"group-title="Lifestyle",Travelxp HD
@@ -439,7 +445,7 @@ http://localhost:5001/live/1839.m3u8
 http://localhost:5001/live/2189.m3u8
 #EXTINF:-1 tvg-name="&Xplore HD"tvg-logo="http://localhost:5001/jtvimage/And_Xplore_HD.png"group-title="Movies",&Xplore HD
 http://localhost:5001/live/1668.m3u8
-#EXTINF:-1 tvg-name="Bollywood Classic Cinema "tvg-logo=""group-title="Movies",Bollywood Classic Cinema 
+#EXTINF:-1 tvg-name="Bollywood Classic Cinema "tvg-logo=""group-title="Movies",Bollywood Classic Cinema
 https://allinonereborn.com/livetv-web/live.php?id=5169&vtoken=&e=.m3u8
 #EXTINF:-1 tvg-name="Bollywood Premier HD"tvg-logo=""group-title="Movies",Bollywood Premier HD
 https://allinonereborn.com/livetv-web/live.php?id=6211&vtoken=&e=.m3u8
@@ -899,6 +905,10 @@ http://localhost:5001/live/926.m3u8
 http://localhost:5001/live/1451.m3u8
 #EXTINF:-1 tvg-name="22Scope News"tvg-logo="http://localhost:5001/jtvimage/22Scope_News.png"group-title="News",22Scope News
 http://localhost:5001/live/2082.m3u8
+#EXTINF:-1 tvg-name="Aaj Tak HD"tvg-logo="https://toppng.com/uploads/preview/aaj-tak-logo-11550710006ti5wtxlvvp.png"group-title="News",Aaj Tak HD
+https://aajtakhdlive-amd.akamaized.net/hls/live/2014415/aajtakhd/aajtakhdlive/live_1080p/chunks.m3u8
+#EXTINF:-1 tvg-name="ABP News HD"tvg-logo="http://localhost:5001/jtvimage/ABP_News_India.png"group-title="News",ABP News HD
+https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/abp-news/ce808576-c0dd-4771-a536-be3a190fa272/2.m3u8
 #EXTINF:-1 tvg-name="TEST8 HD"tvg-logo="http://localhost:5001/jtvimage/TEST8_HD.png"group-title="Shopping",TEST8 HD
 http://localhost:5001/live/1148.m3u8
 #EXTINF:-1 tvg-name="TEST5 HD"tvg-logo="http://localhost:5001/jtvimage/TEST5_HD.png"group-title="Sports",TEST5 HD
