@@ -478,7 +478,7 @@ http://localhost:5001/live/1378.m3u8
 #EXTINF:-1 tvg-name="SongDew TV"tvg-logo="http://localhost:5001/jtvimage/SongDew_TV.png"group-title="Music",SongDew TV
 http://localhost:5001/live/1411.m3u8
 #EXTINF:-1 tvg-name="Shemaroo Filmy Gaane"tvg-logo="http://localhost:5001/jtvimage/shemaroofilmigaane.png"group-title="Music",Shemaroo Filmy Gaane
-http://localhost:5001/live/3074.m3u8
+https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/shemaroo-filmigaane/710214b8-24a3-4e60-baaa-8c7a0bcb4ca5/3.m3u8
 #EXTINF:-1 tvg-name="Saregama Music"tvg-logo="http://localhost:5001/jtvimage/Saregama_Music.png"group-title="Music",Saregama Music
 http://localhost:5001/live/2065.m3u8
 #EXTINF:-1 tvg-name="Sangeet Marathi"tvg-logo="http://localhost:5001/jtvimage/Sangeet_Marathi.png"group-title="Music",Sangeet Marathi
