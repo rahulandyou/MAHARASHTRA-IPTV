@@ -205,12 +205,16 @@ http://localhost:5001/live/2024.m3u8
 http://localhost:5001/live/2437.m3u8
 #EXTINF:-1 tvg-name="Star Life HD"tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3e/StarLife.jpg"group-title="Infotainment",Star Life HD
 https://allinonereborn.com/livetv-web/live.php?id=1389&vtoken=&e=.m3u8
+#EXTINF:-1 tvg-name="Sony BBC EARTH HD"tvg-logo="https://tvwish.com/img/channel/696.jpg"group-title="Infotainment",Sony BBC EARTH HD
+https://yuvraj.fun/sliv/index.m3u8?ch=SonyBBCEarthHD&id=2011907
 #EXTINF:-1 tvg-name="NGC Wild HD"tvg-logo="https://w7.pngwing.com/pngs/925/173/png-transparent-nat-geo-wild-television-channel-national-geographic-television-show-live-stream-television-text-logo.png"group-title="Infotainment",NGC Wild HD
 https://allinonereborn.com/livetv-web/live.php?id=628&vtoken=&e=.m3u8
 #EXTINF:-1 tvg-name="NGC HD"tvg-logo="https://w7.pngwing.com/pngs/86/425/png-transparent-roku-national-geographic-television-channel-nat-geo-fox-hd-national-geographic-television-angle-text-thumbnail.png"group-title="Infotainment",NGC HD
 https://allinonereborn.com/livetv-web/live.php?id=642&vtoken=&e=.m3u8
 #EXTINF:-1 tvg-name="Narayana Health"tvg-logo="http://localhost:5001/jtvimage/Narayana_Health.png"group-title="Infotainment",Narayana Health
 http://localhost:5001/live/3013.m3u8
+#EXTINF:-1 tvg-name="Military Time HD"tvg-logo="https://vets4warriors.com/wp-content/uploads/2022/12/Military-Times.png"group-title="Infotainment",Military Time HD
+https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/sightline/217c7466-dafe-441c-aba2-ebde7300d44e/0.m3u8
 #EXTINF:-1 tvg-name="Jio Events HD"tvg-logo="http://localhost:5001/jtvimage/Jio_Events.png"group-title="Infotainment",Jio Events HD
 http://localhost:5001/live/871.m3u8
 #EXTINF:-1 tvg-name="In Goa 24x7"tvg-logo="http://localhost:5001/jtvimage/InGoa24x7.png"group-title="Infotainment",In Goa 24x7
@@ -235,8 +239,6 @@ http://localhost:5001/live/575.m3u8
 http://localhost:5001/live/463.m3u8
 #EXTINF:-1 tvg-name="Discovery"tvg-logo="http://localhost:5001/jtvimage/Discovery_Channel_English.png"group-title="Infotainment",Discovery
 http://localhost:5001/live/242.m3u8
-#EXTINF:-1 tvg-name="CGTN Documentary"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/CGTN_Documentary_logo.png"group-title="Infotainment",CGTN Documentary
-https://english-livetx.cgtn.com/hls/yypdjlctzb_hd.m3u8
 #EXTINF:-1 tvg-name="Desi Tashan TV"tvg-logo="http://localhost:5001/jtvimage/Desi_Tashan_TV.png"group-title="Infotainment",Desi Tashan TV
 http://localhost:5001/live/3061.m3u8
 #EXTINF:-1 tvg-name="DD Kisan"tvg-logo="http://localhost:5001/jtvimage/DD_Kisan.png"group-title="Infotainment",DD Kisan
@@ -245,16 +247,14 @@ http://localhost:5001/live/583.m3u8
 http://localhost:5001/live/580.m3u8
 #EXTINF:-1 tvg-name="Crime Investigation HD"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/71/Crime_and_Investigation_logo.png"group-title="Infotainment",Crime Investigation HD
 https://allinonereborn.com/livetv-web/live.php?id=1414&vtoken=&e=.m3u8
+#EXTINF:-1 tvg-name="CGTN Documentary"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/CGTN_Documentary_logo.png"group-title="Infotainment",CGTN Documentary
+https://english-livetx.cgtn.com/hls/yypdjlctzb_hd.m3u8
 #EXTINF:-1 tvg-name="Animal Planet Hindi"tvg-logo="http://localhost:5001/jtvimage/Animal_Planet_Hindi.png"group-title="Infotainment",Animal Planet Hindi
 http://localhost:5001/live/566.m3u8
 #EXTINF:-1 tvg-name="Animal Planet HD World"tvg-logo="http://localhost:5001/jtvimage/Animal_Planet_HD.png"group-title="Infotainment",Animal Planet HD World
 http://localhost:5001/live/286.m3u8
 #EXTINF:-1 tvg-name="Animal Planet English"tvg-logo="http://localhost:5001/jtvimage/Animal_Planet_English.png"group-title="Infotainment",Animal Planet English
 http://localhost:5001/live/567.m3u8
-#EXTINF:-1 tvg-name="Sony BBC EARTH HD"tvg-logo="https://tvwish.com/img/channel/696.jpg"group-title="Infotainment",Sony BBC EARTH HD
-https://yuvraj.fun/sliv/index.m3u8?ch=SonyBBCEarthHD&id=2011907
-#EXTINF:-1 tvg-name="Military Time HD"tvg-logo="https://vets4warriors.com/wp-content/uploads/2022/12/Military-Times.png"group-title="Infotainment",Military Time HD
-https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/sightline/217c7466-dafe-441c-aba2-ebde7300d44e/0.m3u8
 #EXTINF:-1 tvg-name="The Q Kahaniyan"tvg-logo="http://localhost:5001/jtvimage/The_Q_Kahaniyan.png"group-title="Kids",The Q Kahaniyan
 http://localhost:5001/live/1920.m3u8
 #EXTINF:-1 tvg-name="TEST14 HD"tvg-logo="http://localhost:5001/jtvimage/TEST14_HD.png"group-title="Kids",TEST14 HD
@@ -325,10 +325,10 @@ http://localhost:5001/live/1955.m3u8
 http://localhost:5001/live/561.m3u8
 #EXTINF:-1 tvg-name="Fashion India"tvg-logo="http://localhost:5001/jtvimage/Fashion_India.png"group-title="Lifestyle",Fashion India
 http://localhost:5001/live/2031.m3u8
-#EXTINF:-1 tvg-name="DRONE TV HD"tvg-logo="https://channels.roku.com/images/18fcd39550984800b9aed5ffa9a1b421-hd.jpg"group-title="Lifestyle",DRONE TV HD
-https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/dronetv/1bd5845e-2deb-4b6d-8ec2-b85657f56797/0.m3u8
 #EXTINF:-1 tvg-name="epic HD"tvg-logo="https://www.epic.com.mt/wp-content/uploads/2020/10/epic-logo.jpg"group-title="Lifestyle",epic HD
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/epic-tv/f417635a-ef90-4897-9cc9-de610605c53c/0.m3u8
+#EXTINF:-1 tvg-name="DRONE TV HD"tvg-logo="https://channels.roku.com/images/18fcd39550984800b9aed5ffa9a1b421-hd.jpg"group-title="Lifestyle",DRONE TV HD
+https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/dronetv/1bd5845e-2deb-4b6d-8ec2-b85657f56797/0.m3u8
 #EXTINF:-1 tvg-name="Zee Yuva"tvg-logo="http://localhost:5001/jtvimage/Zee_Yuva.png"group-title="Marathi",Zee Yuva
 http://localhost:5001/live/414.m3u8
 #EXTINF:-1 tvg-name="Zee Talkies HD"tvg-logo="http://localhost:5001/jtvimage/Zee_Talkies_HD.png"group-title="Marathi",Zee Talkies HD
@@ -423,6 +423,14 @@ http://localhost:5001/live/3054.m3u8
 http://localhost:5001/live/2762.m3u8
 #EXTINF:-1 tvg-name="Maha Movies"tvg-logo="http://localhost:5001/jtvimage/Maha_Movies.png"group-title="Movies",Maha Movies
 http://localhost:5001/live/809.m3u8
+#EXTINF:-1 tvg-name="Hindi Cinema 4 HD"tvg-logo=""group-title="Movies",Hindi Cinema 4 HD
+https://allinonereborn.com/livetv-web/live.php?id=20397&vtoken=&e=.m3u8
+#EXTINF:-1 tvg-name="Hindi Cinema 3 HD"tvg-logo=""group-title="Movies",Hindi Cinema 3 HD
+https://allinonereborn.com/livetv-web/live.php?id=20392&vtoken=&e=.m3u8
+#EXTINF:-1 tvg-name="Hindi Cinema 2 HD"tvg-logo=""group-title="Movies",Hindi Cinema 2 HD
+https://allinonereborn.com/livetv-web/live.php?id=20387&vtoken=&e=.m3u8
+#EXTINF:-1 tvg-name="Hindi Cinema 1 HD"tvg-logo=""group-title="Movies",Hindi Cinema 1 HD
+https://allinonereborn.com/livetv-web/live.php?id=20382&vtoken=&e=.m3u8
 #EXTINF:-1 tvg-name="Hiff Movies"tvg-logo="http://localhost:5001/jtvimage/Hiff_Movies.png"group-title="Movies",Hiff Movies
 http://localhost:5001/live/3060.m3u8
 #EXTINF:-1 tvg-name="Colors Cineplex Superhit"tvg-logo="http://localhost:5001/jtvimage/Rishtey_Cineplex.png"group-title="Movies",Colors Cineplex Superhit
@@ -433,6 +441,14 @@ http://localhost:5001/live/1477.m3u8
 http://localhost:5001/live/1763.m3u8
 #EXTINF:-1 tvg-name="Colors Cineplex"tvg-logo="http://localhost:5001/jtvimage/Colors_Cineplex.png"group-title="Movies",Colors Cineplex
 http://localhost:5001/live/482.m3u8
+#EXTINF:-1 tvg-name="Bollywood Premier HD"tvg-logo=""group-title="Movies",Bollywood Premier HD
+https://allinonereborn.com/livetv-web/live.php?id=6211&vtoken=&e=.m3u8
+#EXTINF:-1 tvg-name="Bollywood NonStop HD"tvg-logo=""group-title="Movies",Bollywood NonStop HD
+https://allinonereborn.com/livetv-web/live.php?id=5714&vtoken=&e=.m3u8
+#EXTINF:-1 tvg-name="Bollywood Hit HD"tvg-logo=""group-title="Movies",Bollywood Hit HD
+https://allinonereborn.com/livetv-web/live.php?id=5234&vtoken=&e=.m3u8
+#EXTINF:-1 tvg-name="Bollywood Classic Cinema "tvg-logo=""group-title="Movies",Bollywood Classic Cinema
+https://allinonereborn.com/livetv-web/live.php?id=5169&vtoken=&e=.m3u8
 #EXTINF:-1 tvg-name="B4U Movies"tvg-logo="http://localhost:5001/jtvimage/B4U_Movies.png"group-title="Movies",B4U Movies
 http://localhost:5001/live/182.m3u8
 #EXTINF:-1 tvg-name="B4U Kadak"tvg-logo="http://localhost:5001/jtvimage/B4U_Kadak.png"group-title="Movies",B4U Kadak
@@ -447,22 +463,6 @@ http://localhost:5001/live/1839.m3u8
 http://localhost:5001/live/2189.m3u8
 #EXTINF:-1 tvg-name="&Xplore HD"tvg-logo="http://localhost:5001/jtvimage/And_Xplore_HD.png"group-title="Movies",&Xplore HD
 http://localhost:5001/live/1668.m3u8
-#EXTINF:-1 tvg-name="Bollywood Classic Cinema "tvg-logo=""group-title="Movies",Bollywood Classic Cinema
-https://allinonereborn.com/livetv-web/live.php?id=5169&vtoken=&e=.m3u8
-#EXTINF:-1 tvg-name="Bollywood Premier HD"tvg-logo=""group-title="Movies",Bollywood Premier HD
-https://allinonereborn.com/livetv-web/live.php?id=6211&vtoken=&e=.m3u8
-#EXTINF:-1 tvg-name="Bollywood NonStop HD"tvg-logo=""group-title="Movies",Bollywood NonStop HD
-https://allinonereborn.com/livetv-web/live.php?id=5714&vtoken=&e=.m3u8
-#EXTINF:-1 tvg-name="Bollywood Hit HD"tvg-logo=""group-title="Movies",Bollywood Hit HD
-https://allinonereborn.com/livetv-web/live.php?id=5234&vtoken=&e=.m3u8
-#EXTINF:-1 tvg-name="Hindi Cinema 1 HD"tvg-logo=""group-title="Movies",Hindi Cinema 1 HD
-https://allinonereborn.com/livetv-web/live.php?id=20382&vtoken=&e=.m3u8
-#EXTINF:-1 tvg-name="Hindi Cinema 2 HD"tvg-logo=""group-title="Movies",Hindi Cinema 2 HD
-https://allinonereborn.com/livetv-web/live.php?id=20387&vtoken=&e=.m3u8
-#EXTINF:-1 tvg-name="Hindi Cinema 3 HD"tvg-logo=""group-title="Movies",Hindi Cinema 3 HD
-https://allinonereborn.com/livetv-web/live.php?id=20392&vtoken=&e=.m3u8
-#EXTINF:-1 tvg-name="Hindi Cinema 4 HD"tvg-logo=""group-title="Movies",Hindi Cinema 4 HD
-https://allinonereborn.com/livetv-web/live.php?id=20397&vtoken=&e=.m3u8
 #EXTINF:-1 tvg-name="ZOOM"tvg-logo="http://localhost:5001/jtvimage/Zoom.png"group-title="Music",ZOOM
 http://localhost:5001/live/592.m3u8
 #EXTINF:-1 tvg-name="Zing"tvg-logo="http://localhost:5001/jtvimage/Zing.png"group-title="Music",Zing
@@ -543,8 +543,6 @@ http://localhost:5001/live/572.m3u8
 http://localhost:5001/live/659.m3u8
 #EXTINF:-1 tvg-name="Zee News MP Chattisgarh"tvg-logo="http://localhost:5001/jtvimage/Zee_News_MP_Chattisgarh.png"group-title="News",Zee News MP Chattisgarh
 http://localhost:5001/live/658.m3u8
-#EXTINF:-1 tvg-name="Zee News"tvg-logo="http://localhost:5001/jtvimage/Zee_News.png"group-title="News",Zee News
-http://localhost:5001/live/504.m3u8
 #EXTINF:-1 tvg-name="Zee Delhi NCR Haryana"tvg-logo="http://localhost:5001/jtvimage/Zee_Kalinga.png"group-title="News",Zee Delhi NCR Haryana
 http://localhost:5001/live/724.m3u8
 #EXTINF:-1 tvg-name="Zee Bharat"tvg-logo="http://localhost:5001/jtvimage/Zee_SANGAM.png"group-title="News",Zee Bharat
@@ -613,8 +611,8 @@ http://localhost:5001/live/851.m3u8
 http://localhost:5001/live/3052.m3u8
 #EXTINF:-1 tvg-name="Sansad TV Rajya Sabha"tvg-logo="http://localhost:5001/jtvimage/Sansad_TV_RajyaSabha.png"group-title="News",Sansad TV Rajya Sabha
 http://localhost:5001/live/1886.m3u8
-#EXTINF:-1 tvg-name="Sansad TV HD"tvg-logo="http://localhost:5001/jtvimage/DD_Rajyasabha.png"group-title="News",Sansad TV HD
-http://localhost:5001/live/520.m3u8
+#EXTINF:-1 tvg-name="SANSAD TV HD 1"tvg-logo="http://localhost:5001/jtvimage/DD_Rajyasabha.png"group-title="News",06 SANSAD TV HD 1
+https://playhls.media.nic.in/live/lstv/index.m3u8
 #EXTINF:-1 tvg-name="Sansad TV"tvg-logo="http://localhost:5001/jtvimage/Loksabha_TV.png"group-title="News",Sansad TV
 http://localhost:5001/live/522.m3u8
 #EXTINF:-1 tvg-name="Samachar Plus Jharkhand Bihar"tvg-logo="http://localhost:5001/jtvimage/Samachar_Plus_Jh_Bihar.png"group-title="News",Samachar Plus Jharkhand Bihar
@@ -715,18 +713,12 @@ http://localhost:5001/live/2233.m3u8
 http://localhost:5001/live/1817.m3u8
 #EXTINF:-1 tvg-name="News 24 Express"tvg-logo="http://localhost:5001/jtvimage/News24_Express.png"group-title="News",News 24 Express
 http://localhost:5001/live/1963.m3u8
-#EXTINF:-1 tvg-name="News 24"tvg-logo="http://localhost:5001/jtvimage/News_24.png"group-title="News",News 24
-http://localhost:5001/live/501.m3u8
 #EXTINF:-1 tvg-name="News 21"tvg-logo="http://localhost:5001/jtvimage/News_21.png"group-title="News",News 21
 http://localhost:5001/live/2008.m3u8
-#EXTINF:-1 tvg-name="News 18 India"tvg-logo="http://localhost:5001/jtvimage/IBN_7.png"group-title="News",News 18 India
-http://localhost:5001/live/231.m3u8
 #EXTINF:-1 tvg-name="News 1 India"tvg-logo="http://localhost:5001/jtvimage/News_1_India.png"group-title="News",News 1 India
 http://localhost:5001/live/936.m3u8
 #EXTINF:-1 tvg-name="Network 10"tvg-logo="http://localhost:5001/jtvimage/Network_10.png"group-title="News",Network 10
 http://localhost:5001/live/1528.m3u8
-#EXTINF:-1 tvg-name="NDTV India"tvg-logo="http://localhost:5001/jtvimage/NDTV_India.png"group-title="News",NDTV India
-http://localhost:5001/live/258.m3u8
 #EXTINF:-1 tvg-name="Naxatra News Hindi"tvg-logo="http://localhost:5001/jtvimage/Naxatra_News_Hindi.png"group-title="News",Naxatra News Hindi
 http://localhost:5001/live/3086.m3u8
 #EXTINF:-1 tvg-name="Navsarjan Sanskruti News"tvg-logo="http://localhost:5001/jtvimage/Nav_Sanskruti_News.png"group-title="News",Navsarjan Sanskruti News
@@ -897,7 +889,7 @@ http://localhost:5001/live/1553.m3u8
 http://localhost:5001/live/1550.m3u8
 #EXTINF:-1 tvg-name="Aaryaa News"tvg-logo="http://localhost:5001/jtvimage/Aaryaa_News.png"group-title="News",Aaryaa News
 http://localhost:5001/live/2030.m3u8
-#EXTINF:-1 tvg-name="Aaj Tak"tvg-logo="http://localhost:5001/jtvimage/Aaj_Tak.png"group-title="News",Aaj Tak
+#EXTINF:-1 tvg-name="Aaj Tak"tvg-logo="http://localhost:5001/jtvimage/Aaj_Tak.png"group-title="News",01 Aaj Tak
 http://localhost:5001/live/173.m3u8
 #EXTINF:-1 tvg-name="Aaj Ki Khabar"tvg-logo="http://localhost:5001/jtvimage/Aaj_Ki_Khabar.png"group-title="News",Aaj Ki Khabar
 http://localhost:5001/live/2773.m3u8
@@ -907,12 +899,20 @@ http://localhost:5001/live/926.m3u8
 http://localhost:5001/live/1451.m3u8
 #EXTINF:-1 tvg-name="22Scope News"tvg-logo="http://localhost:5001/jtvimage/22Scope_News.png"group-title="News",22Scope News
 http://localhost:5001/live/2082.m3u8
-#EXTINF:-1 tvg-name="Aaj Tak HD"tvg-logo="https://toppng.com/uploads/preview/aaj-tak-logo-11550710006ti5wtxlvvp.png"group-title="News",Aaj Tak HD
-https://aajtakhdlive-amd.akamaized.net/hls/live/2014415/aajtakhd/aajtakhdlive/live_1080p/chunks.m3u8
-#EXTINF:-1 tvg-name="ABP News HD"tvg-logo="http://localhost:5001/jtvimage/ABP_News_India.png"group-title="News",ABP News HD
+#EXTINF:-1 tvg-name="Zee News"tvg-logo="http://localhost:5001/jtvimage/Zee_News.png"group-title="News",07 Zee News
+http://localhost:5001/live/504.m3u8
+#EXTINF:-1 tvg-name="Sansad TV HD"tvg-logo="http://localhost:5001/jtvimage/DD_Rajyasabha.png"group-title="News",06 Sansad TV HD
+http://localhost:5001/live/520.m3u8
+#EXTINF:-1 tvg-name="News 18 India"tvg-logo="http://localhost:5001/jtvimage/IBN_7.png"group-title="News",05 News 18 India
+http://localhost:5001/live/231.m3u8
+#EXTINF:-1 tvg-name="News 24"tvg-logo="http://localhost:5001/jtvimage/News_24.png"group-title="News",04 News 24
+http://localhost:5001/live/501.m3u8
+#EXTINF:-1 tvg-name="NDTV India"tvg-logo="http://localhost:5001/jtvimage/NDTV_India.png"group-title="News",03 NDTV India
+http://localhost:5001/live/258.m3u8
+#EXTINF:-1 tvg-name="ABP News HD"tvg-logo="http://localhost:5001/jtvimage/ABP_News_India.png"group-title="News",02 ABP News HD
 https://abplivetv.akamaized.net/hls/live/2043010/hindi/master_720.m3u8
-#EXTINF:-1 tvg-name="SANSAD TV HD 1"tvg-logo="http://localhost:5001/jtvimage/DD_Rajyasabha.png"group-title="News",SANSAD TV HD 1
-https://playhls.media.nic.in/live/lstv/index.m3u8
+#EXTINF:-1 tvg-name="Aaj Tak HD"tvg-logo="https://toppng.com/uploads/preview/aaj-tak-logo-11550710006ti5wtxlvvp.png"group-title="News",01 Aaj Tak HD
+https://aajtakhdlive-amd.akamaized.net/hls/live/2014415/aajtakhd/aajtakhdlive/live_1080p/chunks.m3u8
 #EXTINF:-1 tvg-name="TEST8 HD"tvg-logo="http://localhost:5001/jtvimage/TEST8_HD.png"group-title="Shopping",TEST8 HD
 http://localhost:5001/live/1148.m3u8
 #EXTINF:-1 tvg-name="TEST5 HD"tvg-logo="http://localhost:5001/jtvimage/TEST5_HD.png"group-title="Sports",TEST5 HD
