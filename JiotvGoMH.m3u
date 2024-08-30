@@ -901,8 +901,6 @@ http://localhost:5001/live/926.m3u8
 http://localhost:5001/live/1451.m3u8
 #EXTINF:-1 tvg-name="22Scope News"tvg-logo="http://localhost:5001/jtvimage/22Scope_News.png"group-title="News",22Scope News
 http://localhost:5001/live/2082.m3u8
-#EXTINF:-1 tvg-name="07 Zee news HD"tvg-logo="http://localhost:5001/jtvimage/Zee_News.png"group-title="News",07 Zee news HD
-https://dknttpxmr0dwf.cloudfront.net/index.m3u8?akes=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3MjUwMjI1Mzd9.TRryP06I74VFXBjjlmkQQ4h_7SFHDXftDLJBWLSXuh4
 #EXTINF:-1 tvg-name="Zee News"tvg-logo="http://localhost:5001/jtvimage/Zee_News.png"group-title="News",07 Zee News
 http://localhost:5001/live/504.m3u8
 #EXTINF:-1 tvg-name="Sansad TV HD"tvg-logo="http://localhost:5001/jtvimage/DD_Rajyasabha.png"group-title="News",06 Sansad TV HD
@@ -917,6 +915,8 @@ http://localhost:5001/live/258.m3u8
 https://abplivetv.akamaized.net/hls/live/2043010/hindi/master_720.m3u8
 #EXTINF:-1 tvg-name="Aaj Tak HD"tvg-logo="https://toppng.com/uploads/preview/aaj-tak-logo-11550710006ti5wtxlvvp.png"group-title="News",01 Aaj Tak HD
 https://aajtakhdlive-amd.akamaized.net/hls/live/2014415/aajtakhd/aajtakhdlive/live_1080p/chunks.m3u8
+#EXTINF:-1 tvg-name="07 Zee news HD"tvg-logo="http://localhost:5001/jtvimage/Zee_News.png"group-title="News",07 Zee news HD
+https://dknttpxmr0dwf.cloudfront.net/index.m3u8?akes=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3MjUwMjI1Mzd9.TRryP06I74VFXBjjlmkQQ4h_7SFHDXftDLJBWLSXuh4
 #EXTINF:-1 tvg-name="TEST8 HD"tvg-logo="http://localhost:5001/jtvimage/TEST8_HD.png"group-title="Shopping",TEST8 HD
 http://localhost:5001/live/1148.m3u8
 #EXTINF:-1 tvg-name="TEST5 HD"tvg-logo="http://localhost:5001/jtvimage/TEST5_HD.png"group-title="Sports",TEST5 HD
