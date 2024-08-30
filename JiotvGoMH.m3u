@@ -87,6 +87,8 @@ http://localhost:5001/live/167.m3u8
 http://localhost:5001/live/1351.m3u8
 #EXTINF:-1 tvg-name="Zee Anmol"tvg-logo="http://localhost:5001/jtvimage/Zee_Anmol.png"group-title="Entertainment",Zee Anmol
 http://localhost:5001/live/473.m3u8
+#EXTINF:-1 tvg-name="SONY KAL HD"tvg-logo="https://upload.wikimedia.org/wikipedia/hi/6/6e/Sony_Kal_Logo.jpeg"group-title="Entertainment",SONY KAL HD
+https://spt-sonykal-1-us.lg.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-name="Unique Tv"tvg-logo="http://localhost:5001/jtvimage/Unique_Tv.png"group-title="Entertainment",Unique Tv
 http://localhost:5001/live/3022.m3u8
 #EXTINF:-1 tvg-name="TV Asia Powered by Shemaroo"tvg-logo="http://localhost:5001/jtvimage/TV_Asia.png"group-title="Entertainment",TV Asia Powered by Shemaroo
@@ -899,6 +901,8 @@ http://localhost:5001/live/926.m3u8
 http://localhost:5001/live/1451.m3u8
 #EXTINF:-1 tvg-name="22Scope News"tvg-logo="http://localhost:5001/jtvimage/22Scope_News.png"group-title="News",22Scope News
 http://localhost:5001/live/2082.m3u8
+#EXTINF:-1 tvg-name="07 Zee news HD"tvg-logo="http://localhost:5001/jtvimage/Zee_News.png"group-title="News",07 Zee news HD
+https://dknttpxmr0dwf.cloudfront.net/index.m3u8?akes=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3MjUwMjI1Mzd9.TRryP06I74VFXBjjlmkQQ4h_7SFHDXftDLJBWLSXuh4
 #EXTINF:-1 tvg-name="Zee News"tvg-logo="http://localhost:5001/jtvimage/Zee_News.png"group-title="News",07 Zee News
 http://localhost:5001/live/504.m3u8
 #EXTINF:-1 tvg-name="Sansad TV HD"tvg-logo="http://localhost:5001/jtvimage/DD_Rajyasabha.png"group-title="News",06 Sansad TV HD
@@ -981,3 +985,5 @@ http://localhost:5001/live/1675.m3u8
 http://localhost:5001/live/204.m3u8
 #EXTINF:-1 tvg-name="BRAVE TV"tvg-logo="http://localhost:5001/jtvimage/Brave_TV.png"group-title="Sports",BRAVE TV
 http://localhost:5001/live/2766.m3u8
+#EXTINF:-1 tvg-name="sonyliv HD"tvg-logo="https://cdn.freelogovectors.net/wp-content/uploads/2021/12/sonyliv-logo-freelogovectors.net_.png"group-title="Sports",sonyliv HD
+https://dai.google.com/ssai/event/tG04-ukTSleEi0819p-EqA/master.m3u8
