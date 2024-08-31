@@ -109,7 +109,7 @@ https://allinonereborn.com/livetv-web/live.php?id=754&vtoken=&e=.m3u8
 https://allinonereborn.com/livetv-web/live.php?id=648&vtoken=&e=.m3u8
 #EXTINF:-1 tvg-name="STAR BHARAT HD"tvg-logo="https://www.pngitem.com/pimgs/m/3-33128_star-bharat-graphic-design-hd-png-download.png"group-title="Entertainment",STAR BHARAT HD
 https://allinonereborn.com/livetv-web/live.php?id=724&vtoken=&e=.m3u8
-#EXTINF:-1 tvg-name="Sony Wah"tvg-logo="http://localhost:5001/jtvimage/Sony_Wah.png"group-title="Entertainment",Sony Wah
+#EXTINF:-1 tvg-name="Sony Wah"tvg-logo="http://localhost:5001/jtvimage/Sony_Wah.png"group-title="Movies",Sony Wah
 http://localhost:5001/live/1393.m3u8
 #EXTINF:-1 tvg-name="Sony SAB HD"tvg-logo="http://localhost:5001/jtvimage/Sony_SAB_HD.png"group-title="Entertainment",Sony SAB HD
 https://yuvraj.fun/sliv/index.m3u8?ch=SABHD&id=2011749
@@ -145,7 +145,7 @@ http://localhost:5001/live/2000.m3u8
 http://localhost:5001/live/2962.m3u8
 #EXTINF:-1 tvg-name="KCM"tvg-logo="http://localhost:5001/jtvimage/KCM.png"group-title="Entertainment",KCM
 http://localhost:5001/live/2854.m3u8
-#EXTINF:-1 tvg-name="JKAC News"tvg-logo="http://localhost:5001/jtvimage/V24_TV.png"group-title="Entertainment",JKAC News
+#EXTINF:-1 tvg-name="JKAC News"tvg-logo="http://localhost:5001/jtvimage/V24_TV.png"group-title="News",JKAC News
 http://localhost:5001/live/1739.m3u8
 #EXTINF:-1 tvg-name="Jio Exclusive HD"tvg-logo="http://localhost:5001/jtvimage/Jio_Exclusive.png"group-title="Entertainment",Jio Exclusive HD
 http://localhost:5001/live/866.m3u8
