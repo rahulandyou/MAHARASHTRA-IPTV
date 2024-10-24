@@ -384,7 +384,7 @@ http://localhost:5001/live/1293.m3u8
 #EXTINF:-1 tvg-name="Jai Maharashtra"tvg-logo="http://localhost:5001/jtvimage/Jai_Maharashtra.png"group-title="Marathi News",Jai Maharashtra
 http://localhost:5001/live/1394.m3u8
 #EXTINF:-1 tvg-name="AWAAZ INDIA TV "tvg-logo="https://awaazindiatv.com/wp-content/uploads/2021/03/awaazindiatv.png"group-title="Marathi News",AWAAZ INDIA TV
-http://209.58.180.132/AwaazIndaTVhls/Live.m3u8
+rtmp://awaazindia.livebox.co.in:1935/AwaazIndaTV/Live
 #EXTINF:-1 tvg-name="ABP Majha"tvg-logo="http://localhost:5001/jtvimage/ABP_Majha.png"group-title="Marathi News",ABP Majha
 http://localhost:5001/live/612.m3u8
 #EXTINF:-1 tvg-name="Sony Wah"tvg-logo="http://localhost:5001/jtvimage/Sony_Wah.png"group-title="Movies",Sony Wah
