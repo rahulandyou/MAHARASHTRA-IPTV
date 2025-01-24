@@ -1,6 +1,4 @@
 #EXTM3U x-tvg-url="http://localhost:5001/epg.xml.gz"
-#EXTINF:-1 tvg-name=""tvg-logo=""group-title="",
-
 #EXTINF:-1 tvg-name="Zee Business"tvg-logo="http://localhost:5001/jtvimage/Zee_Business.png"group-title="Business",Zee Business
 http://localhost:5001/live/657.m3u8
 #EXTINF:-1 tvg-name="RIL AGM 2024"tvg-logo="http://localhost:5001/jtvimage/RIL_AGM_JIO.png"group-title="Business",RIL AGM 2024
@@ -22,9 +20,9 @@ http://localhost:5001/live/1364.m3u8
 #EXTINF:-1 tvg-name="Zee Cafe HD"tvg-logo="http://localhost:5001/jtvimage/Zee_Cafe_HD.png"group-title="English",Zee Cafe HD
 http://localhost:5001/live/1319.m3u8
 #EXTINF:-1 tvg-name="STAR MOVIES SELECT HD"tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Star_Movies_Select_HD.png"group-title="English",STAR MOVIES SELECT HD
-https://allinonereborn.com/livetv-web/live.php?id=2719&vtoken=&e=.m3u8
+http://tv.cloudcdn.me:80/live.ts?channelId=199&uid=12481&deviceMac=00:1A:79:6C:28:A1
 #EXTINF:-1 tvg-name="STAR MOVIES HD"tvg-logo="https://www.nicepng.com/png/detail/213-2132991_star-movies-hd-logo.png"group-title="English",STAR MOVIES HD
-https://allinonereborn.com/livetv-web/live.php?id=2714&vtoken=&e=.m3u8
+http://tv.cloudcdn.me:80/live.ts?channelId=198&uid=12481&deviceMac=00:1A:79:6C:28:A1
 #EXTINF:-1 tvg-name="Sony Pix SD"tvg-logo="http://localhost:5001/jtvimage/Sony_Pix_SD.png"group-title="English",Sony Pix SD
 https://allinonereborn.com/livetv-web/live.php?id=709&vtoken=&e=.m3u8
 #EXTINF:-1 tvg-name="Comedy Central SD"tvg-logo="http://localhost:5001/jtvimage/Comedy_Central_SD.png"group-title="English",Comedy Central SD
@@ -110,9 +108,9 @@ http://localhost:5001/live/3088.m3u8
 #EXTINF:-1 tvg-name="STAR USTAV"tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Star_Utsav_SD.png"group-title="Entertainment",STAR USTAV
 https://allinonereborn.com/livetv-web/live.php?id=754&vtoken=&e=.m3u8
 #EXTINF:-1 tvg-name="STAR PLUS HD"tvg-logo="https://w7.pngwing.com/pngs/591/520/png-transparent-star-plus-star-india-television-show-television-channel-net.png"group-title="Entertainment",STAR PLUS HD
-https://allinonereborn.com/livetv-web/live.php?id=648&vtoken=&e=.m3u8
+http://tv.cloudcdn.me:80/live.ts?channelId=200&uid=10016&deviceMac=00:1A:79:20:6F:F3
 #EXTINF:-1 tvg-name="STAR BHARAT HD"tvg-logo="https://www.pngitem.com/pimgs/m/3-33128_star-bharat-graphic-design-hd-png-download.png"group-title="Entertainment",STAR BHARAT HD
-https://allinonereborn.com/livetv-web/live.php?id=724&vtoken=&e=.m3u8
+http://tv.cloudcdn.me:80/live.ts?channelId=195&uid=7045&deviceMac=00:1A:79:0A:3B:36
 #EXTINF:-1 tvg-name="Sony SAB HD"tvg-logo="http://localhost:5001/jtvimage/Sony_SAB_HD.png"group-title="Entertainment",Sony SAB HD
 http://localhost:5001/live/154.m3u8
 #EXTINF:-1 tvg-name="Sony Pal"tvg-logo="http://localhost:5001/jtvimage/Sony_Pal.png"group-title="Entertainment",Sony Pal
@@ -386,7 +384,7 @@ http://localhost:5001/live/1293.m3u8
 #EXTINF:-1 tvg-name="Jai Maharashtra"tvg-logo="http://localhost:5001/jtvimage/Jai_Maharashtra.png"group-title="Marathi News",Jai Maharashtra
 http://localhost:5001/live/1394.m3u8
 #EXTINF:-1 tvg-name="AWAAZ INDIA TV "tvg-logo="https://awaazindiatv.com/wp-content/uploads/2021/03/awaazindiatv.png"group-title="Marathi News",AWAAZ INDIA TV
-http://awaazindia.livebox.co.in/AwaazIndaTVhls/Live.m3u8
+rtmp://awaazindia.livebox.co.in:1935/AwaazIndaTV/Live
 #EXTINF:-1 tvg-name="ABP Majha"tvg-logo="http://localhost:5001/jtvimage/ABP_Majha.png"group-title="Marathi News",ABP Majha
 http://localhost:5001/live/612.m3u8
 #EXTINF:-1 tvg-name="Sony Wah"tvg-logo="http://localhost:5001/jtvimage/Sony_Wah.png"group-title="Movies",Sony Wah
@@ -406,11 +404,13 @@ http://localhost:5001/live/488.m3u8
 #EXTINF:-1 tvg-name="STAR USTAV MOVIES"tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6a/SUMovies.jpg"group-title="Movies",STAR USTAV MOVIES
 https://allinonereborn.com/livetv-web/live.php?id=804&vtoken=&e=.m3u8
 #EXTINF:-1 tvg-name="STAR GOLD SELECT HD"tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2f/Star_Gold_Select_HD.svg/revision/latest?cb=20211216003639"group-title="Movies",STAR GOLD SELECT HD
-https://allinonereborn.com/livetv-web/live.php?id=647&vtoken=&e=.m3u8
+http://tv.cloudcdn.me:80/live.ts?channelId=197&uid=7045&deviceMac=00:1A:79:0A:3B:36
 #EXTINF:-1 tvg-name="STAR GOLD HD"tvg-logo="https://seeklogo.com/images/S/star-gold-logo-D1A2937F35-seeklogo.com.png"group-title="Movies",STAR GOLD HD
-https://allinonereborn.com/livetv-web/live.php?id=646&vtoken=&e=.m3u8
+http://tv.cloudcdn.me:80/live.ts?channelId=196&uid=10016&deviceMac=00:1A:79:20:6F:F3
 #EXTINF:-1 tvg-name="STAR GOLD 2 HD"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cc/Star_Gold_2.svg"group-title="Movies",STAR GOLD 2 HD
-https://allinonereborn.com/livetv-web/live.php?id=5106&vtoken=&e=.m3u8
+http://tv.cloudcdn.me:80/live.ts?channelId=33165&uid=12481&deviceMac=00:1A:79:6C:28:A1
+#EXTINF:-1 tvg-name="Star Gold Romance"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqG3yBIlXqLMpw8rgS_AynI4fGWfll0bHVGIoO2e3TVUC9nTiwo5bLiyQ&s=10"group-title="Movies",Star Gold Romance
+http://tv.cloudcdn.me:80/live.ts?channelId=128485&uid=7045&deviceMac=00:1A:79:0A:3B:36
 #EXTINF:-1 tvg-name="SONY WAH"tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Wah.png"group-title="Movies",SONY WAH
 https://allinonereborn.com/livetv-web/live.php?id=962&vtoken=&e=.m3u8
 #EXTINF:-1 tvg-name="Sony MAX2"tvg-logo="http://localhost:5001/jtvimage/Sony_MAX2.png"group-title="Movies",Sony MAX2
@@ -930,7 +930,7 @@ https://allinonereborn.com/livetv-web/live.php?id=710&vtoken=&e=.m3u8
 #EXTINF:-1 tvg-name="STAR SPORTS SELECT 1 HD"tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/Sw1Oz8Ts.png"group-title="Sports",STAR SPORTS SELECT 1 HD
 https://allinonereborn.com/livetv-web/live.php?id=671&vtoken=&e=.m3u8
 #EXTINF:-1 tvg-name="STAR SPORTS 3"tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2a/StarSports3India.jpg/revision/latest?cb=20191214234112"group-title="Sports",STAR SPORTS 3
-https://allinonereborn.com/livetv-web/live.php?id=858&vtoken=&e=.m3u8
+http://tv.cloudcdn.me:80/live.ts?channelId=39098&uid=12481&deviceMac=00:1A:79:6C:28:A1
 #EXTINF:-1 tvg-name="STAR SPORTS 2 HD"tvg-logo="https://smartads.in/resources/assets/uploads/product_group/television/star-sports-hd2.png"group-title="Sports",STAR SPORTS 2 HD
 https://allinonereborn.com/livetv-web/live.php?id=670&vtoken=&e=.m3u8
 #EXTINF:-1 tvg-name="STAR SPORTS 1 HINDI HD"tvg-logo="https://smartads.in/resources/assets/uploads/product_group/television/star-sports-1-hindi-hd.jpg"group-title="Sports",STAR SPORTS 1 HINDI HD
