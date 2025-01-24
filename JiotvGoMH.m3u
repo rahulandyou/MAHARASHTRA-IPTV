@@ -1,4 +1,6 @@
 #EXTM3U x-tvg-url="http://localhost:5001/epg.xml.gz"
+#EXTINF:-1 tvg-name=""tvg-logo=""group-title="",
+
 #EXTINF:-1 tvg-name="Zee Business"tvg-logo="http://localhost:5001/jtvimage/Zee_Business.png"group-title="Business",Zee Business
 http://localhost:5001/live/657.m3u8
 #EXTINF:-1 tvg-name="RIL AGM 2024"tvg-logo="http://localhost:5001/jtvimage/RIL_AGM_JIO.png"group-title="Business",RIL AGM 2024
@@ -112,9 +114,9 @@ https://allinonereborn.com/livetv-web/live.php?id=648&vtoken=&e=.m3u8
 #EXTINF:-1 tvg-name="STAR BHARAT HD"tvg-logo="https://www.pngitem.com/pimgs/m/3-33128_star-bharat-graphic-design-hd-png-download.png"group-title="Entertainment",STAR BHARAT HD
 https://allinonereborn.com/livetv-web/live.php?id=724&vtoken=&e=.m3u8
 #EXTINF:-1 tvg-name="Sony SAB HD"tvg-logo="http://localhost:5001/jtvimage/Sony_SAB_HD.png"group-title="Entertainment",Sony SAB HD
-https://live.drmlive-02.workers.dev/sliv/sab.m3u8
+http://localhost:5001/live/154.m3u8
 #EXTINF:-1 tvg-name="Sony Pal"tvg-logo="http://localhost:5001/jtvimage/Sony_Pal.png"group-title="Entertainment",Sony Pal
-https://yuvraj.fun/sliv/index.m3u8?ch=SonyPalSD&id=2011741
+http://localhost:5001/live/474.m3u8
 #EXTINF:-1 tvg-name="Sony LIV Exclusive"tvg-logo="http://localhost:5001/jtvimage/Rai_Vs_Rai.png"group-title="Entertainment",Sony LIV Exclusive
 http://localhost:5001/live/3020.m3u8
 #EXTINF:-1 tvg-name="Shrimad Ramayan"tvg-logo="http://localhost:5001/jtvimage/Shrimad_Ramayan.png"group-title="Entertainment",Shrimad Ramayan
@@ -384,7 +386,7 @@ http://localhost:5001/live/1293.m3u8
 #EXTINF:-1 tvg-name="Jai Maharashtra"tvg-logo="http://localhost:5001/jtvimage/Jai_Maharashtra.png"group-title="Marathi News",Jai Maharashtra
 http://localhost:5001/live/1394.m3u8
 #EXTINF:-1 tvg-name="AWAAZ INDIA TV "tvg-logo="https://awaazindiatv.com/wp-content/uploads/2021/03/awaazindiatv.png"group-title="Marathi News",AWAAZ INDIA TV
-rtmp://awaazindia.livebox.co.in:1935/AwaazIndaTV/Live
+http://awaazindia.livebox.co.in/AwaazIndaTVhls/Live.m3u8
 #EXTINF:-1 tvg-name="ABP Majha"tvg-logo="http://localhost:5001/jtvimage/ABP_Majha.png"group-title="Marathi News",ABP Majha
 http://localhost:5001/live/612.m3u8
 #EXTINF:-1 tvg-name="Sony Wah"tvg-logo="http://localhost:5001/jtvimage/Sony_Wah.png"group-title="Movies",Sony Wah
@@ -416,7 +418,7 @@ http://localhost:5001/live/483.m3u8
 #EXTINF:-1 tvg-name="Sony Max SD"tvg-logo="http://localhost:5001/jtvimage/Sony_Max_SD.png"group-title="Movies",Sony Max SD
 http://localhost:5001/live/289.m3u8
 #EXTINF:-1 tvg-name="Sony Max HD"tvg-logo="http://localhost:5001/jtvimage/Sony_Max_HD.png"group-title="Movies",Sony Max HD
-https://yuvraj.fun/sliv/index.m3u8?ch=SonyMaxhd&id=2011670
+http://localhost:5001/live/476.m3u8
 #EXTINF:-1 tvg-name="Shemaroo MarathiBana"tvg-logo="http://localhost:5001/jtvimage/Shemaroo_MarathiBana.png"group-title="Movies",Shemaroo MarathiBana
 http://localhost:5001/live/1452.m3u8
 #EXTINF:-1 tvg-name="Shemaroo Bollywood"tvg-logo="http://localhost:5001/jtvimage/shemaroobollywood.png"group-title="Movies",Shemaroo Bollywood
@@ -502,7 +504,7 @@ http://localhost:5001/live/248.m3u8
 #EXTINF:-1 tvg-name="Merchant Records"tvg-logo="http://localhost:5001/jtvimage/Merchant_Records.png"group-title="Music",Merchant Records
 http://localhost:5001/live/2064.m3u8
 #EXTINF:-1 tvg-name="Mastiii"tvg-logo="http://localhost:5001/jtvimage/Mastiii.png"group-title="Music",Mastiii
-https://sabliveyupp.akamaized.net/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/sablive_https/9f51c8c0-100e-43c3-8a7e-5a22da9e4133/3.m3u8
+http://localhost:5001/live/584.m3u8
 #EXTINF:-1 tvg-name="UCN Pub"tvg-logo=""group-title="Music",UCN Pub
 https://ucncable.livebox.co.in/UCNLIVE2hls/live.m3u8
 #EXTINF:-1 tvg-name="UCN Plus"tvg-logo=""group-title="Music",UCN Plus
@@ -952,11 +954,11 @@ http://localhost:5001/live/525.m3u8
 #EXTINF:-1 tvg-name="Sony Ten 3 Hindi"tvg-logo="http://localhost:5001/jtvimage/Ten_3.png"group-title="Sports",Sony Ten 3 Hindi
 http://localhost:5001/live/524.m3u8
 #EXTINF:-1 tvg-name="Sony Ten 3 HD Hindi"tvg-logo="http://localhost:5001/jtvimage/Ten3_HD.png"group-title="Sports",Sony Ten 3 HD Hindi
-https://yuvraj.fun/sliv/index.m3u8?ch=TEN3HD&id=2020591
+http://localhost:5001/live/892.m3u8
 #EXTINF:-1 tvg-name="Sony Ten 2 HD"tvg-logo="http://localhost:5001/jtvimage/Ten2_HD.png"group-title="Sports",Sony Ten 2 HD
-https://allinonereborn.com/livetv-web/live.php?id=674&vtoken=&e=.m3u8
+http://localhost:5001/live/891.m3u8
 #EXTINF:-1 tvg-name="Sony Ten 1 HD"tvg-logo="http://localhost:5001/jtvimage/Ten_HD.png"group-title="Sports",Sony Ten 1 HD
-https://allinonereborn.com/livetv-web/live.php?id=673&vtoken=&e=.m3u8
+http://localhost:5001/live/584.m3u8
 #EXTINF:-1 tvg-name="Sony Ten 1"tvg-logo="http://localhost:5001/jtvimage/Ten_1.png"group-title="Sports",Sony Ten 1
 http://localhost:5001/live/514.m3u8
 #EXTINF:-1 tvg-name="SONY SPORT 4"tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen4"group-title="Sports",SONY SPORT 4
