@@ -34,7 +34,7 @@ https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9hinjzgtpe/liveabr/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Zee_news.svg/512px-Zee_news.svg.png"group-title="Hindi News",Zee News
 https://dknttpxmr0dwf.cloudfront.net/index_57.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SNsjJjt.png"group-title="Marathi News",Saam TV
-https://www.youtube.com/watch?v=13kXfFlfUdQ
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1747609678/ei/7hMqaNCGFIGQssUPyYeNkQE/ip/202.148.61.206/id/13kXfFlfUdQ.26/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AecWEAa8QbVHJbrxDbs7ttMCnESzN3bI81PofRFTpNYU99T_yopPmPZpRUkUatKaJlGi5BTPRu4_z4Td/spc/wk1kZvfEsFkRvCWL7_u5VmRAUDB7l90_sLSJhBAqeVlj72PzvvJW/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhAJOsuDVcRilDITuI3yKInHR4jub7DZDA-U--zNCGhYp9AiEAhdgqVtp8A-N2Zc9wHS1Fo24lIoM1-wExLP4T6NdZacU%3D/file/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/ABP_Majha_logo.svg/512px-ABP_Majha_logo.svg.png"group-title="Marathi News",ABP Majha
 https://abplivetv.akamaized.net/hls/live/2043011/manjha/master.m3u8
 #EXTINF:-1 tvg-logo="https://awaazindiatv.com/wp-content/uploads/2021/03/awaazindiatv.png"group-title="Marathi News",AWAAZ INDIA TV
