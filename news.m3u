@@ -1,55 +1,459 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo=""group-title="MUSIC",Filmi Gaane
-https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/shemaroo-filmigaane/214b11eb-14ad-4e28-9f25-e954ab0d2eaf/0.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/lxgXHx4.png"group-title="MUSIC",Mastiii
-https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/mastiii/44d28162-2471-49d6-8111-382c100b6e2e/3.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/qubgOi5.png"group-title="MUSIC",9X Jalwa
-https://amg01281-9xmediapvtltd-9xjalwa-samsungin-goszf.amagi.tv/playlist/amg01281-9xmediapvtltd-9xjalwa-samsungin/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/aZ0f85I.png"group-title="MUSIC",9X Jhakaas
-https://amg01281-9xmediapvtltd-9xjhakaas-samsungin-ci2cs.amagi.tv/playlist/amg01281-9xmediapvtltd-9xjhakaas-samsungin/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/F17QtN2.png"group-title="MUSIC",9XM
-https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/9xm/23886666-8fc5-470f-aab1-bd637ed607b1/3.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/512px-CNN.svg.png"group-title="English News",CNN International
-https://d1vnr7amzbx49s.cloudfront.net/index_1.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/9daAHhf.png"group-title="English News",AL Jajeera
+#EXTINF:-1 tvg-name="fight-tv"tvg-id="68"tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/fight-tv.png"tvg-chno="271"group-title="Sports":http-user-agent="YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1",Fight TV
+#EXTVLCOPT:http-user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
+https://in1.sunilprasad.com.np/yuppLive/fight-tv/master.m3u8
+#EXTINF:-1 tvg-name="kozoom"tvg-id="84"tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/sqjspw.png"tvg-chno="273"group-title="Sports":http-user-agent="YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1",Kozoom
+#EXTVLCOPT:http-user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
+https://in1.sunilprasad.com.np/yuppLive/kozoom/master.m3u8
+#EXTINF:-1 tvg-name="xtrem-sports"tvg-id="40"tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/xtrem-sports.png"tvg-chno="279"group-title="Sports":http-user-agent="YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1",Xtrem sports
+#EXTVLCOPT:http-user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
+https://in1.sunilprasad.com.np/yuppLive/xtrem-sports/master.m3u8
+#EXTINF:-1 tvg-name="sport-fishing-tv"tvg-id="76"tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/sport-fishing-tv.png"tvg-chno="286"group-title="Sports":http-user-agent="YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1",Sport Fishing TV
+#EXTVLCOPT:http-user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
+https://in1.sunilprasad.com.np/yuppLive/sport-fishing-tv/master.m3u8
+#EXTINF:-1 tvg-name="america-boating-channel"tvg-id="42"tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/rwfaja.png"tvg-chno="292"group-title="Sports":http-user-agent="YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1",America Boating Channel
+#EXTVLCOPT:http-user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
+https://in1.sunilprasad.com.np/yuppLive/america-boating-channel/master.m3u8
+#EXTINF:-1 tvg-name="the-chukker-channel"tvg-id="67"tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/rrkxqp.png"tvg-chno="298"group-title="Sports":http-user-agent="YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1",The Chukker Channel
+#EXTVLCOPT:http-user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
+https://in1.sunilprasad.com.np/yuppLive/the-chukker-channel/master.m3u8
+#EXTINF:-1 tvg-name="chronotv"tvg-id="49"tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/imwzux.png"tvg-chno="299"group-title="Sports":http-user-agent="YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1",ChronoTV
+#EXTVLCOPT:http-user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
+https://in1.sunilprasad.com.np/yuppLive/chronotv/master.m3u8
+#EXTINF:-1 tvg-name="itsf"tvg-id="79"tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/itsf.png"tvg-chno="300"group-title="Sports":http-user-agent="YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1",ITSF
+#EXTVLCOPT:http-user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
+https://in1.sunilprasad.com.np/yuppLive/itsf/master.m3u8
+#EXTINF:-1 tvg-name="mma-tv"tvg-id="272"tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/lvwqlf.png"tvg-chno="320"group-title="Sports":http-user-agent="YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1",MMA TV
+#EXTVLCOPT:http-user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
+https://in1.sunilprasad.com.np/yuppLive/mma-tv/master.m3u8
+#EXTINF:-1 tvg-name="motor-racing"tvg-id="273"tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/cgrggj.png"tvg-chno="321"group-title="Sports":http-user-agent="YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1",MOTOR RACING
+#EXTVLCOPT:http-user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
+https://in1.sunilprasad.com.np/yuppLive/motor-racing/master.m3u8
+#EXTINF:-1 tvg-name="ace-tv"tvg-id="253"tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/whjmwm.png"tvg-chno="326"group-title="Sports":http-user-agent="YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1",ACE TV
+#EXTVLCOPT:http-user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
+https://in1.sunilprasad.com.np/yuppLive/ace-tv/master.m3u8
+#EXTINF:-1 tvg-name="willow-sports"tvg-id="284"tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/xzbzkm.png"tvg-chno=""group-title="Sports":http-user-agent="YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1",Willow Sports
+#EXTVLCOPT:http-user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
+https://in1.sunilprasad.com.np/yuppLive/willow-sports/master.m3u8
+#EXTINF:-1 tvg-name="space-series"tvg-id="276"tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/epxndj.png"tvg-chno="323"group-title="Others":http-user-agent="YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1",SPACE SERIES
+#EXTVLCOPT:http-user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
+https://in1.sunilprasad.com.np/yuppLive/space-series/master.m3u8
+#EXTINF:-1 tvg-name="AL Jajeera"tvg-id=""tvg-logo="https://i.imgur.com/9daAHhf.png"tvg-chno=""group-title="English News":http-user-agent="",AL Jajeera
 https://live-hls-web-aje-fa.thehlive.com/AJE/03.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/vSz2WEp.png"group-title="English News",BBC NEWS Asia Pacific
+#EXTINF:-1 tvg-name="CNN International"tvg-id=""tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/512px-CNN.svg.png"tvg-chno=""group-title="English News":http-user-agent="",CNN International
+https://d1vnr7amzbx49s.cloudfront.net/index_1.m3u8
+#EXTINF:-1 tvg-name="BBC NEWS Asia Pacific"tvg-id=""tvg-logo="https://i.imgur.com/vSz2WEp.png"tvg-chno=""group-title="English News":http-user-agent="",BBC NEWS Asia Pacific
 https://cdn4.skygo.mn/live/disk1/BBC_News/HLSv3-FTA/BBC_News.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/xWglicB.png"group-title="English News",CNA International
+#EXTINF:-1 tvg-name="CNA International"tvg-id=""tvg-logo="https://i.imgur.com/xWglicB.png"tvg-chno=""group-title="English News":http-user-agent="",CNA International
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
-#EXTINF:-1 tvg-logo="https://akm-img-a-in.tosshub.com/aajtak/resource/img/aajtak-logo-153X116-v2.png"group-title="Hindi News",Aaj Tak
-https://feeds.intoday.in/aajtak/api/master.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/ABP_News_logo.svg/512px-ABP_News_logo.svg.png"group-title="Hindi News",ABP News
-https://abplivetv.pc.cdn.bitgravity.com/httppush/abp_livetv/abp_abpnews/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/PyDjUZB.png"group-title="Hindi News",NDTV India
-https://ndtvindiaelemarchana.akamaized.net/hls/live/2003679/ndtvindia/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5VLCwbt.png"group-title="Hindi News",News 18 India
-https://nw18live.cdn.jio.com/bpk-tv/News18_India_NW18_MOB/output01/News18_India_NW18_MOB-audio_98835_eng=98800-video=3724000.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/x72O77X.png"group-title="Hindi News",News 24
+#EXTINF:-1 tvg-name="india-today"tvg-id="249"tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/fkszrn.png"tvg-chno="204"group-title="English News":http-user-agent="YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1",India Today
+#EXTVLCOPT:http-user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
+https://in1.sunilprasad.com.np/yuppLive/india-today/master.m3u8
+#EXTINF:-1 tvg-name="republic-tv"tvg-id="19"tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/usnsgu.png"tvg-chno="203"group-title="English News":http-user-agent="YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1",Republic TV
+#EXTVLCOPT:http-user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
+https://in1.sunilprasad.com.np/yuppLive/republic-tv/master.m3u8
+#EXTINF:-1 tvg-name="wion"tvg-id="14"tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/gyztbi.png"tvg-chno="205"group-title="English News":http-user-agent="YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1",Wion
+#EXTVLCOPT:http-user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
+https://in1.sunilprasad.com.np/yuppLive/wion/master.m3u8
+#EXTINF:-1 tvg-name="dd-india"tvg-id="194"tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/dd-india.png"tvg-chno="206"group-title="English News":http-user-agent="YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1",DD INDIA
+#EXTVLCOPT:http-user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
+https://in1.sunilprasad.com.np/yuppLive/dd-india/master.m3u8
+#EXTINF:-1 tvg-name="ndtv-24x7"tvg-id="1"tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/mlwpdv.png"tvg-chno="207"group-title="English News":http-user-agent="YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1",NDTV 24x7
+#EXTVLCOPT:http-user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
+https://in1.sunilprasad.com.np/yuppLive/ndtv-24x7/master.m3u8
+#EXTINF:-1 tvg-name="mirror-now"tvg-id="213"tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/mirror-now.png"tvg-chno="208"group-title="English News":http-user-agent="YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1",Mirror Now
+#EXTVLCOPT:http-user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
+https://in1.sunilprasad.com.np/yuppLive/mirror-now/master.m3u8
+#EXTINF:-1 tvg-name="news9live"tvg-id="188"tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/kcaslr.png"tvg-chno="209"group-title="English News":http-user-agent="YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1",News9Live
+#EXTVLCOPT:http-user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
+https://in1.sunilprasad.com.np/yuppLive/news9live/master.m3u8
+#EXTINF:-1 tvg-name="hornbill-tv"tvg-id="171"tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/hornbill-tv.png"tvg-chno="210"group-title="English News":http-user-agent="YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1",Hornbill TV
+#EXTVLCOPT:http-user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
+https://in1.sunilprasad.com.np/yuppLive/hornbill-tv/master.m3u8
+#EXTINF:-1 tvg-name="--yuppdemochannel"tvg-id="229"tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/yuppdemochannel.png"tvg-chno=""group-title="English News":http-user-agent="YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1",&$YuppDEMOChannel
+#EXTVLCOPT:http-user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
+https://in1.sunilprasad.com.np/yuppLive/--yuppdemochannel/master.m3u8
+#EXTINF:-1 tvg-name="ndtv-profit"tvg-id="3"tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/ddsklc.png"tvg-chno="226"group-title="English News":http-user-agent="YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1",NDTV Profit
+#EXTVLCOPT:http-user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
+https://in1.sunilprasad.com.np/yuppLive/ndtv-profit/master.m3u8
+#EXTINF:-1 tvg-name="oan-plus"tvg-id="275"tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/rohnbg.png"tvg-chno="322"group-title="English News":http-user-agent="YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1",OAN PLUS
+#EXTVLCOPT:http-user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
+https://in1.sunilprasad.com.np/yuppLive/oan-plus/master.m3u8
+#EXTINF:-1 tvg-name="voa-news"tvg-id="278"tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/rgzrjw.png"tvg-chno="325"group-title="English News":http-user-agent="YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1",VOA News
+#EXTVLCOPT:http-user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
+https://in1.sunilprasad.com.np/yuppLive/voa-news/master.m3u8
+#EXTINF:-1 tvg-name="cvr-english-news"tvg-id="150"tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/exdirq.png"tvg-chno="414"group-title="English News":http-user-agent="YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1",CVR English News
+#EXTVLCOPT:http-user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
+https://in1.sunilprasad.com.np/yuppLive/cvr-english-news/master.m3u8
+#EXTINF:-1 tvg-name="abp-news"tvg-id="225"tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/mphzpu.png"tvg-chno="7"group-title="Hindi News":http-user-agent="YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1",ABP News
+#EXTVLCOPT:http-user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
+https://in1.sunilprasad.com.np/yuppLive/abp-news/master.m3u8
+#EXTINF:-1 tvg-name="zee-news"tvg-id="13"tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/rhihqo.png"tvg-chno="8"group-title="Hindi News":http-user-agent="YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1",Zee News
+#EXTVLCOPT:http-user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
+https://in1.sunilprasad.com.np/yuppLive/zee-news/master.m3u8
+#EXTINF:-1 tvg-name="ndtv-india"tvg-id="2"tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/sltkhm.png"tvg-chno="10"group-title="Hindi News":http-user-agent="YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1",NDTV INDIA
+#EXTVLCOPT:http-user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
+https://in1.sunilprasad.com.np/yuppLive/ndtv-india/master.m3u8
+#EXTINF:-1 tvg-name="News 24"tvg-id=""tvg-logo="https://i.imgur.com/x72O77X.png"tvg-chno=""group-title="Hindi News":http-user-agent="",News 24
 https://vidcdn.vidgyor.com/news24-origin/liveabr/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/9xeIWqm.png"group-title="Hindi News",News Nation
+#EXTINF:-1 tvg-name="News 18 India"tvg-id=""tvg-logo="https://i.imgur.com/5VLCwbt.png"tvg-chno=""group-title="Hindi News":http-user-agent="",News 18 India
+https://nw18live.cdn.jio.com/bpk-tv/News18_India_NW18_MOB/output01/News18_India_NW18_MOB-audio_98835_eng=98800-video=3724000.m3u8
+#EXTINF:-1 tvg-name="News Nation"tvg-id=""tvg-logo="https://i.imgur.com/9xeIWqm.png"tvg-chno=""group-title="Hindi News":http-user-agent="",News Nation
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/news-nation/9ddb44c3-64a4-4f47-99e7-41f0d18cead0/0.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/GEqUslW.png"group-title="Hindi News",TV9 Bharatvarsh
-https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9hinjzgtpe/liveabr/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Zee_news.svg/512px-Zee_news.svg.png"group-title="Hindi News",Zee News
-https://dknttpxmr0dwf.cloudfront.net/index_57.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/SNsjJjt.png"group-title="Marathi News",Saam TV
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1747609678/ei/7hMqaNCGFIGQssUPyYeNkQE/ip/202.148.61.206/id/13kXfFlfUdQ.26/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AecWEAa8QbVHJbrxDbs7ttMCnESzN3bI81PofRFTpNYU99T_yopPmPZpRUkUatKaJlGi5BTPRu4_z4Td/spc/wk1kZvfEsFkRvCWL7_u5VmRAUDB7l90_sLSJhBAqeVlj72PzvvJW/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhAJOsuDVcRilDITuI3yKInHR4jub7DZDA-U--zNCGhYp9AiEAhdgqVtp8A-N2Zc9wHS1Fo24lIoM1-wExLP4T6NdZacU%3D/file/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/ABP_Majha_logo.svg/512px-ABP_Majha_logo.svg.png"group-title="Marathi News",ABP Majha
-https://abplivetv.akamaized.net/hls/live/2043011/manjha/master.m3u8
-#EXTINF:-1 tvg-logo="https://awaazindiatv.com/wp-content/uploads/2021/03/awaazindiatv.png"group-title="Marathi News",AWAAZ INDIA TV
-http://awaazindia.livebox.co.in/AwaazIndaTVhls/Live.m3u8
-#EXTINF:-1 tvg-logo="https://www.jaimaharashtranews.com/assets/Image/imglogo/footer-logo.png"group-title="Marathi News",Jai Maharashtra
-https://server.livelegitpro.in/jaimaharashtratv/jaimaharashtratv/index.fmp4.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/bpgdafu.png"group-title="Marathi News",Lokshahi News
-https://see.lokshahi.live/live/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.manifest-media.in/cover/prev/uc46r8dskcadge1v9gmd0b04oa-20240502113008.Medi.jpeg"group-title="Marathi News",NDTV Marathi
+#EXTINF:-1 tvg-name="tv9-bharatvarsh"tvg-id="34"tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/rhgutv.png"tvg-chno="4"group-title="Hindi News":http-user-agent="YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1",TV9 Bharatvarsh
+#EXTVLCOPT:http-user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
+https://in1.sunilprasad.com.np/yuppLive/tv9-bharatvarsh/master.m3u8
+#EXTINF:-1 tvg-name="india-tv"tvg-id="231"tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/india-tv.png"tvg-chno="5"group-title="Hindi News":http-user-agent="YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1",India TV
+#EXTVLCOPT:http-user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
+https://in1.sunilprasad.com.np/yuppLive/india-tv/master.m3u8
+#EXTINF:-1 tvg-name="times-now-navbharat"tvg-id="196"tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/times-now-navbharat.png"tvg-chno="6"group-title="Hindi News":http-user-agent="YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1",Times Now Navbharat
+#EXTVLCOPT:http-user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
+https://in1.sunilprasad.com.np/yuppLive/times-now-navbharat/master.m3u8
+#EXTINF:-1 tvg-name="good-news-today"tvg-id="250"tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/czbixn.png"tvg-chno="11"group-title="Hindi News":http-user-agent="YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1",Good News Today
+#EXTVLCOPT:http-user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
+https://in1.sunilprasad.com.np/yuppLive/good-news-today/master.m3u8
+#EXTINF:-1 tvg-name="zee-hindustan"tvg-id="25"tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/sdgosh.png"tvg-chno="12"group-title="Hindi News":http-user-agent="YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1",Zee Hindustan
+#EXTVLCOPT:http-user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
+https://in1.sunilprasad.com.np/yuppLive/zee-hindustan/master.m3u8
+#EXTINF:-1 tvg-name="hindi-khabar"tvg-id="160"tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/hindi-khabar.png"tvg-chno="13"group-title="Hindi News":http-user-agent="YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1",Hindi Khabar
+#EXTVLCOPT:http-user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
+https://in1.sunilprasad.com.np/yuppLive/hindi-khabar/master.m3u8
+#EXTINF:-1 tvg-name="sudarshan-news"tvg-id="138"tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/sudarshan-news.png"tvg-chno="14"group-title="Hindi News":http-user-agent="YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1",Sudarshan News
+#EXTVLCOPT:http-user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
+https://in1.sunilprasad.com.np/yuppLive/sudarshan-news/master.m3u8
+#EXTINF:-1 tvg-name="ndtv-mp"tvg-id="38"tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/zhhvxq.png"tvg-chno="15"group-title="Hindi News":http-user-agent="YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1",NDTV MP
+#EXTVLCOPT:http-user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
+https://in1.sunilprasad.com.np/yuppLive/ndtv-mp/master.m3u8
+#EXTINF:-1 tvg-name="zee-bihar-jharkhand"tvg-id="30"tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/zjjkih.png"tvg-chno="16"group-title="Hindi News":http-user-agent="YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1",Zee Bihar Jharkhand
+#EXTVLCOPT:http-user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
+https://in1.sunilprasad.com.np/yuppLive/zee-bihar-jharkhand/master.m3u8
+#EXTINF:-1 tvg-name="zee-delhi-ncr-haryana"tvg-id="31"tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/yiuolu.png"tvg-chno="17"group-title="Hindi News":http-user-agent="YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1",Zee Delhi NCR Haryana
+#EXTVLCOPT:http-user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
+https://in1.sunilprasad.com.np/yuppLive/zee-delhi-ncr-haryana/master.m3u8
+#EXTINF:-1 tvg-name="news-11-bharat"tvg-id="161"tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/news-11-bharat.png"tvg-chno="18"group-title="Hindi News":http-user-agent="YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1",News 11 Bharat
+#EXTVLCOPT:http-user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
+https://in1.sunilprasad.com.np/yuppLive/news-11-bharat/master.m3u8
+#EXTINF:-1 tvg-name="zee-madhya-pradesh-chhattisgarh"tvg-id="28"tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/nniyqn.png"tvg-chno="19"group-title="Hindi News":http-user-agent="YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1",Zee Madhya Pradesh Chhattisgarh
+#EXTVLCOPT:http-user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
+https://in1.sunilprasad.com.np/yuppLive/zee-madhya-pradesh-chhattisgarh/master.m3u8
+#EXTINF:-1 tvg-name="ndtv-rajasthan"tvg-id="39"tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/ehlmdz.png"tvg-chno="20"group-title="Hindi News":http-user-agent="YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1",NDTV Rajasthan
+#EXTVLCOPT:http-user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
+https://in1.sunilprasad.com.np/yuppLive/ndtv-rajasthan/master.m3u8
+#EXTINF:-1 tvg-name="zee-up-uk"tvg-id="29"tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/ipyfdr.png"tvg-chno="21"group-title="Hindi News":http-user-agent="YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1",Zee UP UK
+#EXTVLCOPT:http-user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
+https://in1.sunilprasad.com.np/yuppLive/zee-up-uk/master.m3u8
+#EXTINF:-1 tvg-name="zee-rajasthan-news"tvg-id="26"tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/kvtdmj.png"tvg-chno="22"group-title="Hindi News":http-user-agent="YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1",Zee Rajasthan News
+#EXTVLCOPT:http-user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
+https://in1.sunilprasad.com.np/yuppLive/zee-rajasthan-news/master.m3u8
+#EXTINF:-1 tvg-name="inh-24x7"tvg-id="155"tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/gbrcig.png"tvg-chno="23"group-title="Hindi News":http-user-agent="YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1",INH 24X7
+#EXTVLCOPT:http-user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
+https://in1.sunilprasad.com.np/yuppLive/inh-24x7/master.m3u8
+#EXTINF:-1 tvg-name="total-tv"tvg-id="128"tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/total-tv.png"tvg-chno="24"group-title="Hindi News":http-user-agent="YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1",Total TV
+#EXTVLCOPT:http-user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
+https://in1.sunilprasad.com.np/yuppLive/total-tv/master.m3u8
+#EXTINF:-1 tvg-name="news-1-india"tvg-id="129"tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/eyfyem.png"tvg-chno="25"group-title="Hindi News":http-user-agent="YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1",News 1 India
+#EXTVLCOPT:http-user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
+https://in1.sunilprasad.com.np/yuppLive/news-1-india/master.m3u8
+#EXTINF:-1 tvg-name="khabrain-abhi-tak"tvg-id="158"tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/qfurxt.png"tvg-chno="26"group-title="Hindi News":http-user-agent="YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1",Khabrain Abhi Tak
+#EXTVLCOPT:http-user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
+https://in1.sunilprasad.com.np/yuppLive/khabrain-abhi-tak/master.m3u8
+#EXTINF:-1 tvg-name="bharat-samachar"tvg-id="159"tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/edjdac.png"tvg-chno="27"group-title="Hindi News":http-user-agent="YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1",Bharat Samachar
+#EXTVLCOPT:http-user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
+https://in1.sunilprasad.com.np/yuppLive/bharat-samachar/master.m3u8
+#EXTINF:-1 tvg-name="swaraj-express-smbc"tvg-id="151"tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/rwtjzv.png"tvg-chno="28"group-title="Hindi News":http-user-agent="YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1",Swaraj Express SMBC
+#EXTVLCOPT:http-user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
+https://in1.sunilprasad.com.np/yuppLive/swaraj-express-smbc/master.m3u8
+#EXTINF:-1 tvg-name="india-voice"tvg-id="134"tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/erinhf.png"tvg-chno="29"group-title="Hindi News":http-user-agent="YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1",India Voice
+#EXTVLCOPT:http-user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
+https://in1.sunilprasad.com.np/yuppLive/india-voice/master.m3u8
+#EXTINF:-1 tvg-name="jantantra-tv"tvg-id="127"tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/xdmemv.png"tvg-chno="30"group-title="Hindi News":http-user-agent="YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1",Jantantra TV
+#EXTVLCOPT:http-user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
+https://in1.sunilprasad.com.np/yuppLive/jantantra-tv/master.m3u8
+#EXTINF:-1 tvg-name="jan-tv"tvg-id="120"tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/yjsmtt.png"tvg-chno="31"group-title="Hindi News":http-user-agent="YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1",Jan TV
+#EXTVLCOPT:http-user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
+https://in1.sunilprasad.com.np/yuppLive/jan-tv/master.m3u8
+#EXTINF:-1 tvg-name="apn-news"tvg-id="152"tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/chfztu.png"tvg-chno="32"group-title="Hindi News":http-user-agent="YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1",APN News
+#EXTVLCOPT:http-user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
+https://in1.sunilprasad.com.np/yuppLive/apn-news/master.m3u8
+#EXTINF:-1 tvg-name="bansal-news"tvg-id="135"tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/bansal-news.png"tvg-chno="33"group-title="Hindi News":http-user-agent="YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1",Bansal News
+#EXTVLCOPT:http-user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
+https://in1.sunilprasad.com.np/yuppLive/bansal-news/master.m3u8
+#EXTINF:-1 tvg-name="kashish-news"tvg-id="164"tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/kashish-news.png"tvg-chno="34"group-title="Hindi News":http-user-agent="YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1",Kashish News
+#EXTVLCOPT:http-user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
+https://in1.sunilprasad.com.np/yuppLive/kashish-news/master.m3u8
+#EXTINF:-1 tvg-name="a1-tv"tvg-id="118"tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/a1-tv.png"tvg-chno="36"group-title="Hindi News":http-user-agent="YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1",A1 TV
+#EXTVLCOPT:http-user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
+https://in1.sunilprasad.com.np/yuppLive/a1-tv/master.m3u8
+#EXTINF:-1 tvg-name="network-10"tvg-id="157"tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/network-10.png"tvg-chno="35"group-title="Hindi News":http-user-agent="YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1",Network 10
+#EXTVLCOPT:http-user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
+https://in1.sunilprasad.com.np/yuppLive/network-10/master.m3u8
+#EXTINF:-1 tvg-name="zee-business"tvg-id="5"tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/gmdzdx.png"tvg-chno="51"group-title="Hindi News":http-user-agent="YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1",Zee Business
+#EXTVLCOPT:http-user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
+https://in1.sunilprasad.com.np/yuppLive/zee-business/master.m3u8
+#EXTINF:-1 tvg-name="abp-majha"tvg-id="227"tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/jhfmvj.png"tvg-chno="727"group-title="Marathi News":http-user-agent="YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1",ABP Majha
+#EXTVLCOPT:http-user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
+https://in1.sunilprasad.com.np/yuppLive/abp-majha/master.m3u8
+#EXTINF:-1 tvg-name="tv9-maharashtra"tvg-id="11"tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/syutfx.png"tvg-chno="728"group-title="Marathi News":http-user-agent="YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1",TV9 Marathi
+#EXTVLCOPT:http-user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
+https://in1.sunilprasad.com.np/yuppLive/tv9-maharashtra/master.m3u8
+#EXTINF:-1 tvg-name="24-taas"tvg-id="6"tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/ldybum.png"tvg-chno="729"group-title="Marathi News":http-user-agent="YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1",24 Taas
+#EXTVLCOPT:http-user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
+https://in1.sunilprasad.com.np/yuppLive/24-taas/master.m3u8
+#EXTINF:-1 tvg-name="jai-maharashtra"tvg-id="162"tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/jai-maharashtra.png"tvg-chno="730"group-title="Marathi News":http-user-agent="YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1",Jai Maharashtra
+#EXTVLCOPT:http-user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
+https://in1.sunilprasad.com.np/yuppLive/jai-maharashtra/master.m3u8
+#EXTINF:-1 tvg-name="NDTV Marathi"tvg-id=""tvg-logo="https://www.manifest-media.in/cover/prev/uc46r8dskcadge1v9gmd0b04oa-20240502113008.Medi.jpeg"tvg-chno=""group-title="Marathi News":http-user-agent="",NDTV Marathi
 https://web-ndtv-marathi.akamaized.net/hls/live/2110470/ndtvmarathi/master_1.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/SjbtAFh.png"group-title="Marathi News",News 18 Lokmat
-https://nw18live.cdn.jio.com/bpk-tv/News18_Lokmat_NW18_MOB/output01/index.m3u8?__hdnea__=st=1747109558~exp=1747195958~acl=/*~hmac=81afec9ef6272e264840666a23e0c34529d81a025d22a67554fb3ecf130f68f3
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5AshBho.png"group-title="Marathi News",TV9 Marathi
-https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9marlygv8h/liveabr/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.ucnnews.live/assets/img/logo/UCN%20News.png"group-title="Marathi News",UCN NEWS
+#EXTINF:-1 tvg-name="News 18 Lokmat"tvg-id=""tvg-logo="https://i.imgur.com/SjbtAFh.png"tvg-chno=""group-title="Marathi News":http-user-agent="",News 18 Lokmat
+https://nw18live.cdn.jio.com/bpk-tv/News18_Lokmat_NW18_MOB/output01/index.m3u8
+#EXTINF:-1 tvg-name="Lokshahi News"tvg-id=""tvg-logo="https://i.imgur.com/bpgdafu.png"tvg-chno=""group-title="Marathi News":http-user-agent="",Lokshahi News
+https://see.lokshahi.live/live/index.m3u8
+#EXTINF:-1 tvg-name="UCN NEWS"tvg-id=""tvg-logo="https://www.ucnnews.live/assets/img/logo/UCN%20News.png"tvg-chno=""group-title="Marathi News":http-user-agent="",UCN NEWS
 https://ucncable.livebox.co.in/UCNNEWShls/live.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/KVDGQI1.png"group-title="Marathi News",Zee 24 Taas
-https://dgrvlduwztkd4.cloudfront.net/index_5.m3u8
+#EXTINF:-1 tvg-name="AWAAZ INDIA TV"tvg-id=""tvg-logo="https://awaazindiatv.com/wp-content/uploads/2021/03/awaazindiatv.png"tvg-chno=""group-title="Marathi News":http-user-agent="",AWAAZ INDIA TV
+http://awaazindia.livebox.co.in/AwaazIndaTVhls/Live.m3u8
+#EXTINF:-1 tvg-name="Filmi Gaane"tvg-id=""tvg-logo="https://www.freelivetv.org/wp-content/uploads/2024/08/Shemaroo-Filmi-Gaane.jpeg.webp"tvg-chno=""group-title="Music":http-user-agent="",Filmi Gaane
+https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/shemaroo-filmigaane/0b5fd0ea-bcc8-4a34-952d-a59470d88f3f/0.m3u8
+#EXTINF:-1 tvg-name="9XM"tvg-id=""tvg-logo="https://i.imgur.com/F17QtN2.png"tvg-chno=""group-title="Music":http-user-agent="",9XM
+https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/9xm/23886666-8fc5-470f-aab1-bd637ed607b1/3.m3u8
+#EXTINF:-1 tvg-name="9X Jalwa"tvg-id=""tvg-logo="https://i.imgur.com/qubgOi5.png"tvg-chno=""group-title="Music":http-user-agent="",9X Jalwa
+https://amg01281-9xmediapvtltd-9xjalwa-samsungin-goszf.amagi.tv/playlist/amg01281-9xmediapvtltd-9xjalwa-samsungin/playlist.m3u8
+#EXTINF:-1 tvg-name="9X Jhakaas"tvg-id=""tvg-logo="https://i.imgur.com/aZ0f85I.png"tvg-chno=""group-title="Music":http-user-agent="",9X Jhakaas
+https://amg01281-9xmediapvtltd-9xjhakaas-samsungin-ci2cs.amagi.tv/playlist/amg01281-9xmediapvtltd-9xjhakaas-samsungin/playlist.m3u8
+#EXTINF:-1 tvg-name="mastiii"tvg-id="23"tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/xbhpwb.png"tvg-chno="66"group-title="Music":http-user-agent="YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1",Mastiii
+#EXTVLCOPT:http-user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
+https://in1.sunilprasad.com.np/yuppLive/mastiii/master.m3u8
+#EXTINF:-1 tvg-name="balle-balle"tvg-id="137"tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/balle-balle.png"tvg-chno="67"group-title="Music":http-user-agent="YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1",Balle Balle
+#EXTVLCOPT:http-user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
+https://in1.sunilprasad.com.np/yuppLive/balle-balle/master.m3u8
+#EXTINF:-1 tvg-name="insync"tvg-id="126"tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/insync.png"tvg-chno="68"group-title="Music":http-user-agent="YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1",insync
+#EXTVLCOPT:http-user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
+https://in1.sunilprasad.com.np/yuppLive/insync/master.m3u8
+#EXTINF:-1 tvg-name="haryanvi-hits"tvg-id="192"tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/haryanvi-hits.png"tvg-chno="69"group-title="Music":http-user-agent="YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1",Haryanvi Hits
+#EXTVLCOPT:http-user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
+https://in1.sunilprasad.com.np/yuppLive/haryanvi-hits/master.m3u8
+#EXTINF:-1 tvg-name="songdew"tvg-id="214"tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/songdew.png"tvg-chno="70"group-title="Music":http-user-agent="YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1",Songdew
+#EXTVLCOPT:http-user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
+https://in1.sunilprasad.com.np/yuppLive/songdew/master.m3u8
+#EXTINF:-1 tvg-name="maiboli"tvg-id="21"tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/dnjjkm.png"tvg-chno="736"group-title="Music":http-user-agent="YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1",Maiboli
+#EXTVLCOPT:http-user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
+https://in1.sunilprasad.com.np/yuppLive/maiboli/master.m3u8
+#EXTINF:-1 tvg-name="boogle-bollywood"tvg-id="199"tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/boogle-bollywood.png"tvg-chno="711"group-title="Music":http-user-agent="YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1",Boogle Bollywood
+#EXTVLCOPT:http-user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
+https://in1.sunilprasad.com.np/yuppLive/boogle-bollywood/master.m3u8
+#EXTINF:-1 tvg-name="cowboy-movie-channel"tvg-id="52"tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/cowboy-movie-channel.png"tvg-chno="256"group-title="Movies":http-user-agent="YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1",Cowboy Movie Channel
+#EXTVLCOPT:http-user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
+https://in1.sunilprasad.com.np/yuppLive/cowboy-movie-channel/master.m3u8
+#EXTINF:-1 tvg-name="horror-tv"tvg-id="77"tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/horror-tv.png"tvg-chno="257"group-title="Movies":http-user-agent="YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1",Horror TV
+#EXTVLCOPT:http-user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
+https://in1.sunilprasad.com.np/yuppLive/horror-tv/master.m3u8
+#EXTINF:-1 tvg-name="tensions-tv"tvg-id="72"tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/tensions-tv.png"tvg-chno="258"group-title="Movies":http-user-agent="YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1",Tensions TV
+#EXTVLCOPT:http-user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
+https://in1.sunilprasad.com.np/yuppLive/tensions-tv/master.m3u8
+#EXTINF:-1 tvg-name="drive-in-movie-channel"tvg-id="55"tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/drive-in-movie-channel.png"tvg-chno="259"group-title="Movies":http-user-agent="YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1",Drive In Movie Channel
+#EXTVLCOPT:http-user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
+https://in1.sunilprasad.com.np/yuppLive/drive-in-movie-channel/master.m3u8
+#EXTINF:-1 tvg-name="weshort"tvg-id="57"tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/weshort.png"tvg-chno="260"group-title="Movies":http-user-agent="YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1",Weshort
+#EXTVLCOPT:http-user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
+https://in1.sunilprasad.com.np/yuppLive/weshort/master.m3u8
+#EXTINF:-1 tvg-name="kung-fu"tvg-id="85"tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/kung-fu.png"tvg-chno="261"group-title="Movies":http-user-agent="YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1",Kung Fu
+#EXTVLCOPT:http-user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
+https://in1.sunilprasad.com.np/yuppLive/kung-fu/master.m3u8
+#EXTINF:-1 tvg-name="best-action-tv"tvg-id="256"tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/fjbfto.png"tvg-chno="308"group-title="Movies":http-user-agent="YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1",BEST ACTION TV
+#EXTVLCOPT:http-user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
+https://in1.sunilprasad.com.np/yuppLive/best-action-tv/master.m3u8
+#EXTINF:-1 tvg-name="best-drama-tv"tvg-id="257"tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/vuyumm.png"tvg-chno="309"group-title="Movies":http-user-agent="YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1",BEST DRAMA TV
+#EXTVLCOPT:http-user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
+https://in1.sunilprasad.com.np/yuppLive/best-drama-tv/master.m3u8
+#EXTINF:-1 tvg-name="best-thriller-tv"tvg-id="258"tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/ewehpt.png"tvg-chno="310"group-title="Movies":http-user-agent="YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1",BEST THRILLER TV
+#EXTVLCOPT:http-user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
+https://in1.sunilprasad.com.np/yuppLive/best-thriller-tv/master.m3u8
+#EXTINF:-1 tvg-name="tolly-tv1"tvg-id="92"tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/aumnrs.png"tvg-chno="429"group-title="Movies":http-user-agent="YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1",Tolly TV
+#EXTVLCOPT:http-user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
+https://in1.sunilprasad.com.np/yuppLive/tolly-tv1/master.m3u8
+#EXTINF:-1 tvg-name="pitaara-tv"tvg-id="37"tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/mbzkrr.png"tvg-chno="702"group-title="Movies":http-user-agent="YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1",Pitaara TV
+#EXTVLCOPT:http-user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
+https://in1.sunilprasad.com.np/yuppLive/pitaara-tv/master.m3u8
+#EXTINF:-1 tvg-name="dabangg"tvg-id="22"tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/qovodm.png"tvg-chno="766"group-title="Movies":http-user-agent="YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1",Dabangg
+#EXTVLCOPT:http-user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
+https://in1.sunilprasad.com.np/yuppLive/dabangg/master.m3u8
+#EXTINF:-1 tvg-name="ndtv-goodtimes"tvg-id="4"tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/mxzyyw.png"tvg-chno="249"group-title="Lifestyle":http-user-agent="YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1",NDTV GoodTimes
+#EXTVLCOPT:http-user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
+https://in1.sunilprasad.com.np/yuppLive/ndtv-goodtimes/master.m3u8
+#EXTINF:-1 tvg-name="defiance-media"tvg-id="264"tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/jocyub.png"tvg-chno="313"group-title="Lifestyle":http-user-agent="YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1",DEFIANCE MEDIA
+#EXTVLCOPT:http-user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
+https://in1.sunilprasad.com.np/yuppLive/defiance-media/master.m3u8
+#EXTINF:-1 tvg-name="escape-tv"tvg-id="267"tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/bazmyr.png"tvg-chno="315"group-title="Lifestyle":http-user-agent="YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1",ESCAPE TV
+#EXTVLCOPT:http-user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
+https://in1.sunilprasad.com.np/yuppLive/escape-tv/master.m3u8
+#EXTINF:-1 tvg-name="luxury-dreams-tv"tvg-id="271"tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/kuygkv.png"tvg-chno="319"group-title="Lifestyle":http-user-agent="YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1",LUXURY DREAMS TV
+#EXTVLCOPT:http-user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
+https://in1.sunilprasad.com.np/yuppLive/luxury-dreams-tv/master.m3u8
+#EXTINF:-1 tvg-name="unchainedtv"tvg-id="277"tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/gjwmjv.png"tvg-chno="324"group-title="Lifestyle":http-user-agent="YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1",UNCHAINEDTV
+#EXTVLCOPT:http-user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
+https://in1.sunilprasad.com.np/yuppLive/unchainedtv/master.m3u8
+#EXTINF:-1 tvg-name="vanitha-tv"tvg-id="114"tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/vanitha-tv.png"tvg-chno="428"group-title="Lifestyle":http-user-agent="YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1",Vanitha TV
+#EXTVLCOPT:http-user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
+https://in1.sunilprasad.com.np/yuppLive/vanitha-tv/master.m3u8
+#EXTINF:-1 tvg-name="cvr-health"tvg-id="286"tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/cvr-health.png"tvg-chno="140"group-title="Lifestyle":http-user-agent="YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1",CVR Health
+#EXTVLCOPT:http-user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
+https://in1.sunilprasad.com.np/yuppLive/cvr-health/master.m3u8
+#EXTINF:-1 tvg-name="ayush-tv"tvg-id="234"tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/lrvzwz.png"tvg-chno="659"group-title="Lifestyle":http-user-agent="YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1",Ayush TV
+#EXTVLCOPT:http-user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
+https://in1.sunilprasad.com.np/yuppLive/ayush-tv/master.m3u8
+#EXTINF:-1 tvg-name="kiddo"tvg-id="83"tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/kiddo.png"tvg-chno="232"group-title="Kids":http-user-agent="YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1",Kiddo
+#EXTVLCOPT:http-user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
+https://in1.sunilprasad.com.np/yuppLive/kiddo/master.m3u8
+#EXTINF:-1 tvg-name="cartoon-tv-classics"tvg-id="48"tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/ehuljr.png"tvg-chno="235"group-title="Kids":http-user-agent="YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1",Cartoon TV Classics
+#EXTVLCOPT:http-user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
+https://in1.sunilprasad.com.np/yuppLive/cartoon-tv-classics/master.m3u8
+#EXTINF:-1 tvg-name="green-gold-tv"tvg-id="281"tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/green-gold-tv.png"tvg-chno="2"group-title="Kids":http-user-agent="YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1",Green Gold TV
+#EXTVLCOPT:http-user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
+https://in1.sunilprasad.com.np/yuppLive/green-gold-tv/master.m3u8
+#EXTINF:-1 tvg-name="scifi-world"tvg-id="78"tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/oxsgsi.png"tvg-chno="272"group-title="Entertainment":http-user-agent="YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1",Scifi World
+#EXTVLCOPT:http-user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
+https://in1.sunilprasad.com.np/yuppLive/scifi-world/master.m3u8
+#EXTINF:-1 tvg-name="encore"tvg-id="63"tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/twazqd.png"tvg-chno="274"group-title="Entertainment":http-user-agent="YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1",Encore
+#EXTVLCOPT:http-user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
+https://in1.sunilprasad.com.np/yuppLive/encore/master.m3u8
+#EXTINF:-1 tvg-name="danger-vision-tv"tvg-id="53"tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/iktjkc.png"tvg-chno="276"group-title="Entertainment":http-user-agent="YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1",Danger Vision TV
+#EXTVLCOPT:http-user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
+https://in1.sunilprasad.com.np/yuppLive/danger-vision-tv/master.m3u8
+#EXTINF:-1 tvg-name="mercury"tvg-id="95"tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/wyuowl.png"tvg-chno="277"group-title="Entertainment":http-user-agent="YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1",Mercury
+#EXTVLCOPT:http-user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
+https://in1.sunilprasad.com.np/yuppLive/mercury/master.m3u8
+#EXTINF:-1 tvg-name="urban-action"tvg-id="60"tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/urban-action.png"tvg-chno="278"group-title="Entertainment":http-user-agent="YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1",Urban Action
+#EXTVLCOPT:http-user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
+https://in1.sunilprasad.com.np/yuppLive/urban-action/master.m3u8
+#EXTINF:-1 tvg-name="the-explorers1"tvg-id="88"tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/ggdzvt.png"tvg-chno="280"group-title="Entertainment":http-user-agent="YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1",The Explorers
+#EXTVLCOPT:http-user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
+https://in1.sunilprasad.com.np/yuppLive/the-explorers1/master.m3u8
+#EXTINF:-1 tvg-name="bang-bang-tv"tvg-id="45"tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/dxqsmq.png"tvg-chno="281"group-title="Entertainment":http-user-agent="YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1",Bang Bang TV
+#EXTVLCOPT:http-user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
+https://in1.sunilprasad.com.np/yuppLive/bang-bang-tv/master.m3u8
+#EXTINF:-1 tvg-name="voyages"tvg-id="59"tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/yfbcof.png"tvg-chno="284"group-title="Entertainment":http-user-agent="YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1",Voyages
+#EXTVLCOPT:http-user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
+https://in1.sunilprasad.com.np/yuppLive/voyages/master.m3u8
+#EXTINF:-1 tvg-name="lol-tv"tvg-id="90"tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/lol-tv.png"tvg-chno="285"group-title="Entertainment":http-user-agent="YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1",Lol TV
+#EXTVLCOPT:http-user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
+https://in1.sunilprasad.com.np/yuppLive/lol-tv/master.m3u8
+#EXTINF:-1 tvg-name="heartfelt-tv"tvg-id="71"tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/heartfelt-tv.png"tvg-chno="287"group-title="Entertainment":http-user-agent="YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1",Heartfelt TV
+#EXTVLCOPT:http-user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
+https://in1.sunilprasad.com.np/yuppLive/heartfelt-tv/master.m3u8
+#EXTINF:-1 tvg-name="trufa"tvg-id="62"tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/trufa.png"tvg-chno="288"group-title="Entertainment":http-user-agent="YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1",Trufa
+#EXTVLCOPT:http-user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
+https://in1.sunilprasad.com.np/yuppLive/trufa/master.m3u8
+#EXTINF:-1 tvg-name="love-2-hate-tv"tvg-id="93"tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/vfjgky.png"tvg-chno="289"group-title="Entertainment":http-user-agent="YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1",Love 2 Hate TV
+#EXTVLCOPT:http-user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
+https://in1.sunilprasad.com.np/yuppLive/love-2-hate-tv/master.m3u8
+#EXTINF:-1 tvg-name="mundo-series"tvg-id="94"tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/mbhcva.png"tvg-chno="290"group-title="Entertainment":http-user-agent="YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1",Mundo Series
+#EXTVLCOPT:http-user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
+https://in1.sunilprasad.com.np/yuppLive/mundo-series/master.m3u8
+#EXTINF:-1 tvg-name="nitro-tv"tvg-id="82"tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/uohdua.png"tvg-chno="291"group-title="Entertainment":http-user-agent="YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1",Nitro TV
+#EXTVLCOPT:http-user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
+https://in1.sunilprasad.com.np/yuppLive/nitro-tv/master.m3u8
+#EXTINF:-1 tvg-name="coeur-ocean-tv"tvg-id="50"tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/coeur-ocean-tv.png"tvg-chno="293"group-title="Entertainment":http-user-agent="YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1",Coeur Ocean TV
+#EXTVLCOPT:http-user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
+https://in1.sunilprasad.com.np/yuppLive/coeur-ocean-tv/master.m3u8
+#EXTINF:-1 tvg-name="latino-classic-channel"tvg-id="89"tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/latino-classic-channel.png"tvg-chno="294"group-title="Entertainment":http-user-agent="YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1",Latino Classic Channel
+#EXTVLCOPT:http-user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
+https://in1.sunilprasad.com.np/yuppLive/latino-classic-channel/master.m3u8
+#EXTINF:-1 tvg-name="mama-benz-tv"tvg-id="96"tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/mama-benz-tv.png"tvg-chno="296"group-title="Entertainment":http-user-agent="YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1",Mama Benz TV
+#EXTVLCOPT:http-user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
+https://in1.sunilprasad.com.np/yuppLive/mama-benz-tv/master.m3u8
+#EXTINF:-1 tvg-name="colour-blind"tvg-id="51"tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/idvans.png"tvg-chno="297"group-title="Entertainment":http-user-agent="YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1",Colour Blind
+#EXTVLCOPT:http-user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
+https://in1.sunilprasad.com.np/yuppLive/colour-blind/master.m3u8
+#EXTINF:-1 tvg-name="edgy-tv"tvg-id="56"tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/tlmbwv.png"tvg-chno="301"group-title="Entertainment":http-user-agent="YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1",Edgy TV
+#EXTVLCOPT:http-user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
+https://in1.sunilprasad.com.np/yuppLive/edgy-tv/master.m3u8
+#EXTINF:-1 tvg-name="outer-vision-tv"tvg-id="81"tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/ewwdxf.png"tvg-chno="302"group-title="Entertainment":http-user-agent="YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1",Outer Vision TV
+#EXTVLCOPT:http-user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
+https://in1.sunilprasad.com.np/yuppLive/outer-vision-tv/master.m3u8
+#EXTINF:-1 tvg-name="just-for-laughs-gags"tvg-id="279"tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/inxhvg.png"tvg-chno="304"group-title="Entertainment":http-user-agent="YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1",JUST FOR LAUGHS GAGS
+#EXTVLCOPT:http-user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
+https://in1.sunilprasad.com.np/yuppLive/just-for-laughs-gags/master.m3u8
+#EXTINF:-1 tvg-name="awe-plus"tvg-id="255"tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/xccrcr.png"tvg-chno="307"group-title="Entertainment":http-user-agent="YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1",AWE PLUS
+#EXTVLCOPT:http-user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
+https://in1.sunilprasad.com.np/yuppLive/awe-plus/master.m3u8
+#EXTINF:-1 tvg-name="brat-tv"tvg-id="261"tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/aqzbzc.png"tvg-chno="311"group-title="Entertainment":http-user-agent="YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1",BRAT TV
+#EXTVLCOPT:http-user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
+https://in1.sunilprasad.com.np/yuppLive/brat-tv/master.m3u8
+#EXTINF:-1 tvg-name="h2otv"tvg-id="268"tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/eqiuvk.png"tvg-chno="316"group-title="Entertainment":http-user-agent="YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1",H2OTV
+#EXTVLCOPT:http-user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
+https://in1.sunilprasad.com.np/yuppLive/h2otv/master.m3u8
+#EXTINF:-1 tvg-name="kartoon-channel-worldwide"tvg-id="269"tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/wwlccy.png"tvg-chno="317"group-title="Entertainment":http-user-agent="YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1",KARTOON CHANNEL WORLDWIDE
+#EXTVLCOPT:http-user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
+https://in1.sunilprasad.com.np/yuppLive/kartoon-channel-worldwide/master.m3u8
+#EXTINF:-1 tvg-name="desi-play-tv"tvg-id="131"tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/desi-play-tv.png"tvg-chno="81"group-title="Entertainment":http-user-agent="YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1",Desi Play TV
+#EXTVLCOPT:http-user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
+https://in1.sunilprasad.com.np/yuppLive/desi-play-tv/master.m3u8
+#EXTINF:-1 tvg-name="bollywood-4u"tvg-id="47"tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/sinxiy.png"tvg-chno="83"group-title="Entertainment":http-user-agent="YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1",Bollywood 4U
+#EXTVLCOPT:http-user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
+https://in1.sunilprasad.com.np/yuppLive/bollywood-4u/master.m3u8
+#EXTINF:-1 tvg-name="comedy-tadka"tvg-id="262"tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/tdkonc.png"tvg-chno="104"group-title="Entertainment":http-user-agent="YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1",COMEDY TADKA
+#EXTVLCOPT:http-user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
+https://in1.sunilprasad.com.np/yuppLive/comedy-tadka/master.m3u8
+#EXTINF:-1 tvg-name="diy-art"tvg-id="265"tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/dayyvk.png"tvg-chno="105"group-title="Entertainment":http-user-agent="YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1",DIY ART
+#EXTVLCOPT:http-user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
+https://in1.sunilprasad.com.np/yuppLive/diy-art/master.m3u8
+#EXTINF:-1 tvg-name="ctvn-akd-plus"tvg-id="101"tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/ctvn-akd-plus.png"tvg-chno="685"group-title="Entertainment":http-user-agent="YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1",CTVN AKD Plus
+#EXTVLCOPT:http-user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
+https://in1.sunilprasad.com.np/yuppLive/ctvn-akd-plus/master.m3u8
+#EXTINF:-1 tvg-name="mana-tv-international"tvg-id="216"tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/mana-tv-international.png"tvg-chno="430"group-title="Entertainment":http-user-agent="YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1",Mana TV International
+#EXTVLCOPT:http-user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
+https://in1.sunilprasad.com.np/yuppLive/mana-tv-international/master.m3u8
+#EXTINF:-1 tvg-name="tana-prapancha-sahitya-vedika"tvg-id="198"tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/tana-prapancha-sahitya-vedika.png"tvg-chno="431"group-title="Entertainment":http-user-agent="YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1",TANA Prapancha Sahitya Vedika
+#EXTVLCOPT:http-user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
+https://in1.sunilprasad.com.np/yuppLive/tana-prapancha-sahitya-vedika/master.m3u8
+#EXTINF:-1 tvg-name="pitaara-comedy"tvg-id="235"tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/wneior.png"tvg-chno="704"group-title="Entertainment":http-user-agent="YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1",Pitaara Comedy
+#EXTVLCOPT:http-user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
+https://in1.sunilprasad.com.np/yuppLive/pitaara-comedy/master.m3u8
+#EXTINF:-1 tvg-name="parvasi-tv-hd"tvg-id="200"tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/parvasi-tv-hd.png"tvg-chno="712"group-title="Entertainment":http-user-agent="YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1",Parvasi TV HD
+#EXTVLCOPT:http-user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
+https://in1.sunilprasad.com.np/yuppLive/parvasi-tv-hd/master.m3u8
+#EXTINF:-1 tvg-name="pasand"tvg-id="169"tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/pasand.png"tvg-chno="767"group-title="Entertainment":http-user-agent="YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1",PASAND
+#EXTVLCOPT:http-user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
+https://in1.sunilprasad.com.np/yuppLive/pasand/master.m3u8
+#EXTINF:-1 tvg-name="rengoni-tv"tvg-id="107"tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/rengoni-tv.png"tvg-chno="841"group-title="Entertainment":http-user-agent="YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1",Rengoni TV
+#EXTVLCOPT:http-user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
+https://in1.sunilprasad.com.np/yuppLive/rengoni-tv/master.m3u8
+#EXTINF:-1 tvg-name="athavan-tv-hd"tvg-id="205"tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/athavan-tv-hd.png"tvg-chno="526"group-title="Entertainment":http-user-agent="YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1",Athavan TV HD
+#EXTVLCOPT:http-user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
+https://in1.sunilprasad.com.np/yuppLive/athavan-tv-hd/master.m3u8
+#EXTINF:-1 tvg-name="moon-tv"tvg-id="167"tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/moon-tv.png"tvg-chno="527"group-title="Entertainment":http-user-agent="YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1",Moon TV
+#EXTVLCOPT:http-user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
+https://in1.sunilprasad.com.np/yuppLive/moon-tv/master.m3u8
+#EXTINF:-1 tvg-name="peppers-tv"tvg-id="113"tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/peppers-tv.png"tvg-chno="528"group-title="Entertainment":http-user-agent="YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1",Peppers TV
+#EXTVLCOPT:http-user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
+https://in1.sunilprasad.com.np/yuppLive/peppers-tv/master.m3u8
+#EXTINF:-1 tvg-name="ibc-radio"tvg-id="219"tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/ibc-radio.png"tvg-chno="529"group-title="Entertainment":http-user-agent="YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1",IBC Radio
+#EXTVLCOPT:http-user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
+https://in1.sunilprasad.com.np/yuppLive/ibc-radio/master.m3u8
+#EXTINF:-1 tvg-name="jaihind-tv"tvg-id="117"tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/jaihind-tv.png"tvg-chno="621"group-title="Entertainment":http-user-agent="YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1",Jaihind TV
+#EXTVLCOPT:http-user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
+https://in1.sunilprasad.com.np/yuppLive/jaihind-tv/master.m3u8
+#EXTINF:-1 tvg-name="kerala-vision"tvg-id="168"tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/kerala-vision.png"tvg-chno="623"group-title="Entertainment":http-user-agent="YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1",Kerala Vision
+#EXTVLCOPT:http-user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
+https://in1.sunilprasad.com.np/yuppLive/kerala-vision/master.m3u8
+#EXTINF:-1 tvg-name="nepal-1"tvg-id="183"tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/nepal-1.png"tvg-chno="825"group-title="Entertainment":http-user-agent="YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1",Nepal 1
+#EXTVLCOPT:http-user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
+https://in1.sunilprasad.com.np/yuppLive/nepal-1/master.m3u8
+#EXTINF:-1 tvg-name="english-tv"tvg-id="66"tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/english-tv.png"tvg-chno="236"group-title="Educational":http-user-agent="YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1",English TV
+#EXTVLCOPT:http-user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
+https://in1.sunilprasad.com.np/yuppLive/english-tv/master.m3u8
+#EXTINF:-1 tvg-name="lingua-tv"tvg-id="270"tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/dlqwlb.png"tvg-chno="318"group-title="Educational":http-user-agent="YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1",LINGUA TV
+#EXTVLCOPT:http-user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
+https://in1.sunilprasad.com.np/yuppLive/lingua-tv/master.m3u8
+#EXTINF:-1 tvg-name="turito-iit-jee"tvg-id="251"tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/zuqhea.png"tvg-chno="327"group-title="Educational":http-user-agent="YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1",Turito IIT JEE
+#EXTVLCOPT:http-user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
+https://in1.sunilprasad.com.np/yuppLive/turito-iit-jee/master.m3u8
+#EXTINF:-1 tvg-name="turito-neet"tvg-id="252"tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/shgwrd.png"tvg-chno="328"group-title="Educational":http-user-agent="YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1",Turito NEET
+#EXTVLCOPT:http-user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
+https://in1.sunilprasad.com.np/yuppLive/turito-neet/master.m3u8
+#EXTINF:-1 tvg-name="t-sat-nipuna"tvg-id="178"tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/crzalk.png"tvg-chno="432"group-title="Educational":http-user-agent="YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1",T-SAT Nipuna
+#EXTVLCOPT:http-user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
+https://in1.sunilprasad.com.np/yuppLive/t-sat-nipuna/master.m3u8
+#EXTINF:-1 tvg-name="t-sat-vidya"tvg-id="193"tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/etmwbj.png"tvg-chno="433"group-title="Educational":http-user-agent="YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1",T-SAT Vidya
+#EXTVLCOPT:http-user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
+https://in1.sunilprasad.com.np/yuppLive/t-sat-vidya/master.m3u8
