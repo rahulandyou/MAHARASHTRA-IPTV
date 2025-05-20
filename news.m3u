@@ -1,4 +1,10 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="КХЛ"tvg-id=""tvg-logo="http://tv.team/images/chIcons/34.png"tvg-chno=""group-title="Sports":http-user-agent="",КХЛ
+http://2.1usd.tv:80/ch138/mono.m3u8?token=1usdtv_novii.HEHf49oDloAeiexso6Mz6zJu93q5eLU6BdC5eZLgleSPM2B4UYovF5UpVQgnujDK
+#EXTINF:-1 tvg-name="Eurosport 1 HD"tvg-id=""tvg-logo="http://tv.team/images/chIcons/39.png"tvg-chno=""group-title="Sports":http-user-agent="",Eurosport 1 HD
+http://2.1usd.tv:80/ch037/mono.m3u8?token=1usdtv_novii.HEHf49oDloAeiexso6Mz61_s52WluduEXhYXh3YfMs3rTE487GmPQNY_1KRpCHYk
+#EXTINF:-1 tvg-name="Eurosport 2 HD"tvg-id=""tvg-logo="http://tv.team/images/chIcons/71.png"tvg-chno=""group-title="Sports":http-user-agent="",Eurosport 2 HD
+http://2.1usd.tv:80/ch039/mono.m3u8?token=1usdtv_novii.HEHf49oDloAeiexso6Mz64wAkSLRnzj7MmGgRpfrseKe0AQwWKCxVToh-1O6Bzrf
 #EXTINF:-1 tvg-name="fight-tv"tvg-id="68"tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/fight-tv.png"tvg-chno="271"group-title="Sports":http-user-agent="YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1",Fight TV
 #EXTVLCOPT:http-user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
 https://in1.sunilprasad.com.np/yuppLive/fight-tv/master.m3u8
@@ -38,6 +44,8 @@ https://in1.sunilprasad.com.np/yuppLive/willow-sports/master.m3u8
 #EXTINF:-1 tvg-name="space-series"tvg-id="276"tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/epxndj.png"tvg-chno="323"group-title="Others":http-user-agent="YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1",SPACE SERIES
 #EXTVLCOPT:http-user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
 https://in1.sunilprasad.com.np/yuppLive/space-series/master.m3u8
+#EXTINF:-1 tvg-name="Bloomberg TV 4K"tvg-id=""tvg-logo="https://cordcuttersnews.com/wp-content/uploads/2020/05/51xZAebJMXL._SL1280_.jpg"tvg-chno=""group-title="English News":http-user-agent="",Bloomberg TV 4K
+https://bloomberg-bloombergtv-3-us.xiaomi.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-name="AL Jajeera"tvg-id=""tvg-logo="https://i.imgur.com/9daAHhf.png"tvg-chno=""group-title="English News":http-user-agent="",AL Jajeera
 https://live-hls-web-aje-fa.thehlive.com/AJE/03.m3u8
 #EXTINF:-1 tvg-name="CNN International"tvg-id=""tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/512px-CNN.svg.png"tvg-chno=""group-title="English News":http-user-agent="",CNN International
@@ -212,6 +220,8 @@ https://see.lokshahi.live/live/index.m3u8
 https://ucncable.livebox.co.in/UCNNEWShls/live.m3u8
 #EXTINF:-1 tvg-name="AWAAZ INDIA TV"tvg-id=""tvg-logo="https://awaazindiatv.com/wp-content/uploads/2021/03/awaazindiatv.png"tvg-chno=""group-title="Marathi News":http-user-agent="",AWAAZ INDIA TV
 http://awaazindia.livebox.co.in/AwaazIndaTVhls/Live.m3u8
+#EXTINF:-1 tvg-name="YRF Music"tvg-id=""tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/YRF_Music.png"tvg-chno=""group-title="Music":http-user-agent="",YRF Music
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-yrfmusic-xiaomi/playlist.m3u8
 #EXTINF:-1 tvg-name="Filmi Gaane"tvg-id=""tvg-logo="https://www.freelivetv.org/wp-content/uploads/2024/08/Shemaroo-Filmi-Gaane.jpeg.webp"tvg-chno=""group-title="Music":http-user-agent="",Filmi Gaane
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/shemaroo-filmigaane/0b5fd0ea-bcc8-4a34-952d-a59470d88f3f/0.m3u8
 #EXTINF:-1 tvg-name="9XM"tvg-id=""tvg-logo="https://i.imgur.com/F17QtN2.png"tvg-chno=""group-title="Music":http-user-agent="",9XM
@@ -222,7 +232,7 @@ https://amg01281-9xmediapvtltd-9xjalwa-samsungin-goszf.amagi.tv/playlist/amg0128
 https://amg01281-9xmediapvtltd-9xjhakaas-samsungin-ci2cs.amagi.tv/playlist/amg01281-9xmediapvtltd-9xjhakaas-samsungin/playlist.m3u8
 #EXTINF:-1 tvg-name="mastiii"tvg-id="23"tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/xbhpwb.png"tvg-chno="66"group-title="Music":http-user-agent="YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1",Mastiii
 #EXTVLCOPT:http-user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
-https://in1.sunilprasad.com.np/yuppLive/mastiii/master.m3u8
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/mastiii/master.m3u8
 #EXTINF:-1 tvg-name="balle-balle"tvg-id="137"tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/balle-balle.png"tvg-chno="67"group-title="Music":http-user-agent="YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1",Balle Balle
 #EXTVLCOPT:http-user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
 https://in1.sunilprasad.com.np/yuppLive/balle-balle/master.m3u8
