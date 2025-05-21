@@ -222,8 +222,10 @@ https://web-ndtv-marathi.akamaized.net/hls/live/2110470/ndtvmarathi/master_1.m3u
 https://nw18live.cdn.jio.com/bpk-tv/News18_Lokmat_NW18_MOB/output01/index.m3u8
 #EXTINF:-1 tvg-name="Lokshahi News"tvg-id=""tvg-logo="https://i.imgur.com/bpgdafu.png"tvg-chno=""group-title="Marathi News":http-user-agent="",Lokshahi News
 https://see.lokshahi.live/live/index.m3u8
-#EXTINF:-1 tvg-name="SAAM TV"tvg-id="https://jiotvimages.cdn.jio.com/dare_images/images/Saam_Tv.png"tvg-logo=""tvg-chno=""group-title="Marathi News":http-user-agent="",SAAM TV
+#EXTINF:-1 tvg-name="SAAM TV"tvg-id=""tvg-logo="https://www.mumbaitak.in/assets/brand-logo-1-mbtak.png"tvg-chno=""group-title="Marathi News":http-user-agent="",SAAM TV
 https://youtube.com/saamtv/live
+#EXTINF:-1 tvg-name="Mumbai Tak"tvg-id=""tvg-logo="https://www.mumbaitak.in/assets/brand-logo-1-mbtak.png"tvg-chno=""group-title="Marathi News":http-user-agent="",Mumbai Tak
+https://www.youtube.com/MumbaiTak/live
 #EXTINF:-1 tvg-name="UCN NEWS"tvg-id=""tvg-logo="https://www.ucnnews.live/assets/img/logo/UCN%20News.png"tvg-chno=""group-title="Marathi News":http-user-agent="",UCN NEWS
 https://ucncable.livebox.co.in/UCNNEWShls/live.m3u8
 #EXTINF:-1 tvg-name="AWAAZ INDIA TV"tvg-id=""tvg-logo="https://awaazindiatv.com/wp-content/uploads/2021/03/awaazindiatv.png"tvg-chno=""group-title="Marathi News":http-user-agent="",AWAAZ INDIA TV
