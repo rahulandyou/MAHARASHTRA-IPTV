@@ -93,12 +93,16 @@ https://in1.sunilprasad.com.np/yuppLive/voa-news/master.m3u8
 #EXTINF:-1 tvg-name="cvr-english-news"tvg-id="150"tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/exdirq.png"tvg-chno="414"group-title="English News":http-user-agent="YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1",CVR English News
 #EXTVLCOPT:http-user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
 https://in1.sunilprasad.com.np/yuppLive/cvr-english-news/master.m3u8
+#EXTINF:-1 tvg-name="AAJ TAK HD"tvg-id=""tvg-logo="https://smedia2.intoday.in/aajtak/resources/theme_v2/common/images/livetv-share_hd.jpg"tvg-chno=""group-title="Hindi News":http-user-agent="",AAJ TAK HD
+https://aajtakhdlive-amd.akamaized.net/hls/live/2014415/aajtakhd/aajtakhdlive/live_1080p/chunks.m3u8
 #EXTINF:-1 tvg-name="abp-news"tvg-id="225"tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/mphzpu.png"tvg-chno="7"group-title="Hindi News":http-user-agent="YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1",ABP News
 #EXTVLCOPT:http-user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
 https://in1.sunilprasad.com.np/yuppLive/abp-news/master.m3u8
 #EXTINF:-1 tvg-name="zee-news"tvg-id="13"tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/rhihqo.png"tvg-chno="8"group-title="Hindi News":http-user-agent="YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1",Zee News
 #EXTVLCOPT:http-user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
 https://in1.sunilprasad.com.np/yuppLive/zee-news/master.m3u8
+#EXTINF:-1 tvg-name="Zee Bharat"tvg-id=""tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4e/Zee_Bharat_2024.png/revision/latest?cb=20240314141333"tvg-chno=""group-title="Hindi News":http-user-agent="",Zee Bharat
+https://d1hp2yai3k4ork.cloudfront.net/index_4.m3u8
 #EXTINF:-1 tvg-name="ndtv-india"tvg-id="2"tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/sltkhm.png"tvg-chno="10"group-title="Hindi News":http-user-agent="YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1",NDTV INDIA
 #EXTVLCOPT:http-user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
 https://in1.sunilprasad.com.np/yuppLive/ndtv-india/master.m3u8
@@ -197,7 +201,9 @@ https://in1.sunilprasad.com.np/yuppLive/a1-tv/master.m3u8
 https://in1.sunilprasad.com.np/yuppLive/network-10/master.m3u8
 #EXTINF:-1 tvg-name="zee-business"tvg-id="5"tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/gmdzdx.png"tvg-chno="51"group-title="Hindi News":http-user-agent="YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1",Zee Business
 #EXTVLCOPT:http-user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
-https://in1.sunilprasad.com.np/yuppLive/zee-business/master.m3u8
+https://dwby15d04agvq.cloudfront.net/index_5.m3u8
+#EXTINF:-1 tvg-name="CNBC AWAAZ"tvg-id=""tvg-logo="https://w7.pngwing.com/pngs/410/140/png-transparent-cnbc-awaaz-logo-of-nbc-india-television-channel-india-television-text-logo.png"tvg-chno=""group-title="Hindi News":http-user-agent="",CNBC AWAAZ
+https://nw18live.cdn.jio.com/bpk-tv/CNBC_Awaaz_NW18_MOB/output01/CNBC_Awaaz_NW18_MOB-audio_98834_hin=98800-video=3724000.m3u8
 #EXTINF:-1 tvg-name="abp-majha"tvg-id="227"tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/jhfmvj.png"tvg-chno="727"group-title="Marathi News":http-user-agent="YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1",ABP Majha
 #EXTVLCOPT:http-user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
 https://in1.sunilprasad.com.np/yuppLive/abp-majha/master.m3u8
@@ -206,7 +212,7 @@ https://in1.sunilprasad.com.np/yuppLive/abp-majha/master.m3u8
 https://in1.sunilprasad.com.np/yuppLive/tv9-maharashtra/master.m3u8
 #EXTINF:-1 tvg-name="24-taas"tvg-id="6"tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/ldybum.png"tvg-chno="729"group-title="Marathi News":http-user-agent="YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1",24 Taas
 #EXTVLCOPT:http-user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
-https://in1.sunilprasad.com.np/yuppLive/24-taas/master.m3u8
+https://dgrvlduwztkd4.cloudfront.net/index_5.m3u8
 #EXTINF:-1 tvg-name="jai-maharashtra"tvg-id="162"tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/jai-maharashtra.png"tvg-chno="730"group-title="Marathi News":http-user-agent="YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1",Jai Maharashtra
 #EXTVLCOPT:http-user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
 https://in1.sunilprasad.com.np/yuppLive/jai-maharashtra/master.m3u8
@@ -216,6 +222,8 @@ https://web-ndtv-marathi.akamaized.net/hls/live/2110470/ndtvmarathi/master_1.m3u
 https://nw18live.cdn.jio.com/bpk-tv/News18_Lokmat_NW18_MOB/output01/index.m3u8
 #EXTINF:-1 tvg-name="Lokshahi News"tvg-id=""tvg-logo="https://i.imgur.com/bpgdafu.png"tvg-chno=""group-title="Marathi News":http-user-agent="",Lokshahi News
 https://see.lokshahi.live/live/index.m3u8
+#EXTINF:-1 tvg-name="SAAM TV"tvg-id="https://jiotvimages.cdn.jio.com/dare_images/images/Saam_Tv.png"tvg-logo=""tvg-chno=""group-title="Marathi News":http-user-agent="",SAAM TV
+https://youtube.com/saamtv/live
 #EXTINF:-1 tvg-name="UCN NEWS"tvg-id=""tvg-logo="https://www.ucnnews.live/assets/img/logo/UCN%20News.png"tvg-chno=""group-title="Marathi News":http-user-agent="",UCN NEWS
 https://ucncable.livebox.co.in/UCNNEWShls/live.m3u8
 #EXTINF:-1 tvg-name="AWAAZ INDIA TV"tvg-id=""tvg-logo="https://awaazindiatv.com/wp-content/uploads/2021/03/awaazindiatv.png"tvg-chno=""group-title="Marathi News":http-user-agent="",AWAAZ INDIA TV
