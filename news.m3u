@@ -44,6 +44,14 @@ https://in1.sunilprasad.com.np/yuppLive/willow-sports/master.m3u8
 #EXTINF:-1 tvg-name="space-series"tvg-id="276"tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/epxndj.png"tvg-chno="323"group-title="Others":http-user-agent="YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1",SPACE SERIES
 #EXTVLCOPT:http-user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
 https://in1.sunilprasad.com.np/yuppLive/space-series/master.m3u8
+#EXTINF:-1 tvg-name="NHK World Japan"tvg-id=""tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/NHK_World.svg/1200px-NHK_World.svg.png"tvg-chno=""group-title="English News":http-user-agent="",NHK World Japan
+https://nhkworld-tv.akamaized.net/hls/live/2115640/nhkworld-tv/index_1M.m3u8
+#EXTINF:-1 tvg-name="DW TV"tvg-id=""tvg-logo="https://brandlogos.net/wp-content/uploads/2021/12/deutsche_welle-brandlogo.net_.png"tvg-chno=""group-title="English News":http-user-agent="",DW TV
+https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream04/streamPlaylist.m3u8
+#EXTINF:-1 tvg-name="Russia Today"tvg-id=""tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/2048px-Russia-today-logo.svg.png"tvg-chno=""group-title="English News":http-user-agent="",Russia Today
+https://rt-glb.rttv.com/dvr/rtnews/playlist_2500Kb.m3u8
+#EXTINF:-1 tvg-name="ABC News"tvg-id=""tvg-logo="https://play-lh.googleusercontent.com/9ZV7_rH_OkAh7N95DCaf6denkZMIldPD5K2nuVxetCym4ixyBx2qk6QBbog3txzwdy4o"tvg-chno=""group-title="English News":http-user-agent="",ABC News
+https://abc-news-dmd-streams-1.akamaized.net/out/v1/701126012d044971b3fa89406a440133/index_3_0.m3u8
 #EXTINF:-1 tvg-name="Bloomberg TV 4K"tvg-id=""tvg-logo="https://cordcuttersnews.com/wp-content/uploads/2020/05/51xZAebJMXL._SL1280_.jpg"tvg-chno=""group-title="English News":http-user-agent="",Bloomberg TV 4K
 https://bloomberg-bloombergtv-3-us.xiaomi.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-name="AL Jajeera"tvg-id=""tvg-logo="https://i.imgur.com/9daAHhf.png"tvg-chno=""group-title="English News":http-user-agent="",AL Jajeera
@@ -111,7 +119,7 @@ https://vidcdn.vidgyor.com/news24-origin/liveabr/playlist.m3u8
 #EXTINF:-1 tvg-name="News 18 India"tvg-id=""tvg-logo="https://i.imgur.com/5VLCwbt.png"tvg-chno=""group-title="Hindi News":http-user-agent="",News 18 India
 https://nw18live.cdn.jio.com/bpk-tv/News18_India_NW18_MOB/output01/News18_India_NW18_MOB-audio_98835_eng=98800-video=3724000.m3u8
 #EXTINF:-1 tvg-name="News Nation"tvg-id=""tvg-logo="https://i.imgur.com/9xeIWqm.png"tvg-chno=""group-title="Hindi News":http-user-agent="",News Nation
-https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/news-nation/9ddb44c3-64a4-4f47-99e7-41f0d18cead0/0.m3u8
+https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/news-nation/5f441a37-3dee-49a1-8ef8-768fa377a8b9/0.m3u8
 #EXTINF:-1 tvg-name="tv9-bharatvarsh"tvg-id="34"tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/rhgutv.png"tvg-chno="4"group-title="Hindi News":http-user-agent="YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1",TV9 Bharatvarsh
 #EXTVLCOPT:http-user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
 https://in1.sunilprasad.com.np/yuppLive/tv9-bharatvarsh/master.m3u8
@@ -222,10 +230,6 @@ https://web-ndtv-marathi.akamaized.net/hls/live/2110470/ndtvmarathi/master_1.m3u
 https://nw18live.cdn.jio.com/bpk-tv/News18_Lokmat_NW18_MOB/output01/index.m3u8
 #EXTINF:-1 tvg-name="Lokshahi News"tvg-id=""tvg-logo="https://i.imgur.com/bpgdafu.png"tvg-chno=""group-title="Marathi News":http-user-agent="",Lokshahi News
 https://see.lokshahi.live/live/index.m3u8
-#EXTINF:-1 tvg-name="SAAM TV"tvg-id=""tvg-logo="https://www.mumbaitak.in/assets/brand-logo-1-mbtak.png"tvg-chno=""group-title="Marathi News":http-user-agent="",SAAM TV
-https://youtube.com/saamtv/live
-#EXTINF:-1 tvg-name="Mumbai Tak"tvg-id=""tvg-logo="https://www.mumbaitak.in/assets/brand-logo-1-mbtak.png"tvg-chno=""group-title="Marathi News":http-user-agent="",Mumbai Tak
-https://www.youtube.com/MumbaiTak/live
 #EXTINF:-1 tvg-name="UCN NEWS"tvg-id=""tvg-logo="https://www.ucnnews.live/assets/img/logo/UCN%20News.png"tvg-chno=""group-title="Marathi News":http-user-agent="",UCN NEWS
 https://ucncable.livebox.co.in/UCNNEWShls/live.m3u8
 #EXTINF:-1 tvg-name="AWAAZ INDIA TV"tvg-id=""tvg-logo="https://awaazindiatv.com/wp-content/uploads/2021/03/awaazindiatv.png"tvg-chno=""group-title="Marathi News":http-user-agent="",AWAAZ INDIA TV
@@ -234,6 +238,8 @@ http://awaazindia.livebox.co.in/AwaazIndaTVhls/Live.m3u8
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-yrfmusic-xiaomi/playlist.m3u8
 #EXTINF:-1 tvg-name="Filmi Gaane"tvg-id=""tvg-logo="https://www.freelivetv.org/wp-content/uploads/2024/08/Shemaroo-Filmi-Gaane.jpeg.webp"tvg-chno=""group-title="Music":http-user-agent="",Filmi Gaane
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/shemaroo-filmigaane/0b5fd0ea-bcc8-4a34-952d-a59470d88f3f/0.m3u8
+#EXTINF:-1 tvg-name="Show Box Music"tvg-id=""tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/00/ShowBox_TV_logo.png"tvg-chno=""group-title="Music":http-user-agent="",Show Box Music
+https://epiconvh.akamaized.net/live/showbox/master_1080.m3u8
 #EXTINF:-1 tvg-name="9XM"tvg-id=""tvg-logo="https://i.imgur.com/F17QtN2.png"tvg-chno=""group-title="Music":http-user-agent="",9XM
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/9xm/23886666-8fc5-470f-aab1-bd637ed607b1/3.m3u8
 #EXTINF:-1 tvg-name="9X Jalwa"tvg-id=""tvg-logo="https://i.imgur.com/qubgOi5.png"tvg-chno=""group-title="Music":http-user-agent="",9X Jalwa
@@ -258,6 +264,8 @@ https://in1.sunilprasad.com.np/yuppLive/songdew/master.m3u8
 #EXTINF:-1 tvg-name="maiboli"tvg-id="21"tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/dnjjkm.png"tvg-chno="736"group-title="Music":http-user-agent="YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1",Maiboli
 #EXTVLCOPT:http-user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
 https://in1.sunilprasad.com.np/yuppLive/maiboli/master.m3u8
+#EXTINF:-1 tvg-name="Saga Music"tvg-id=""tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Saga_Music.png"tvg-chno=""group-title="Music":http-user-agent="",Saga Music
+https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/saga-music/261da7fc-b563-4900-9c6e-2d5998b05b2c/0.m3u8
 #EXTINF:-1 tvg-name="boogle-bollywood"tvg-id="199"tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/boogle-bollywood.png"tvg-chno="711"group-title="Music":http-user-agent="YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1",Boogle Bollywood
 #EXTVLCOPT:http-user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
 https://in1.sunilprasad.com.np/yuppLive/boogle-bollywood/master.m3u8
