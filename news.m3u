@@ -216,6 +216,8 @@ https://in1.sunilprasad.com.np/yuppLive/network-10/master.m3u8
 https://dwby15d04agvq.cloudfront.net/index_5.m3u8
 #EXTINF:-1 tvg-name="CNBC AWAAZ"tvg-id=""tvg-logo="https://w7.pngwing.com/pngs/410/140/png-transparent-cnbc-awaaz-logo-of-nbc-india-television-channel-india-television-text-logo.png"tvg-chno=""group-title="Hindi News":http-user-agent="",CNBC AWAAZ
 https://nw18live.cdn.jio.com/bpk-tv/CNBC_Awaaz_NW18_MOB/output01/CNBC_Awaaz_NW18_MOB-audio_98834_hin=98800-video=3724000.m3u8
+#EXTINF:-1 tvg-name="Saam TV"tvg-id=""tvg-logo="https://i.imgur.com/SNsjJjt.png"tvg-chno=""group-title="Marathi News":http-user-agent="",Saam TV
+https://cdn-3.pishow.tv/live/437/master.m3u8
 #EXTINF:-1 tvg-name="abp-majha"tvg-id="227"tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/jhfmvj.png"tvg-chno="727"group-title="Marathi News":http-user-agent="YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1",ABP Majha
 #EXTVLCOPT:http-user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
 https://in1.sunilprasad.com.np/yuppLive/abp-majha/master.m3u8
@@ -342,6 +344,12 @@ https://in1.sunilprasad.com.np/yuppLive/cartoon-tv-classics/master.m3u8
 #EXTINF:-1 tvg-name="green-gold-tv"tvg-id="281"tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/green-gold-tv.png"tvg-chno="2"group-title="Kids":http-user-agent="YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1",Green Gold TV
 #EXTVLCOPT:http-user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
 https://in1.sunilprasad.com.np/yuppLive/green-gold-tv/master.m3u8
+#EXTINF:-1 tvg-name="DD National HD"tvg-id=""tvg-logo="https://i.imgur.com/MohlE5B.png"tvg-chno=""group-title="Entertainment":http-user-agent="",DD National HD
+https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/40492a64c1db4a1385ba1a397d357d3a/index.m3u8
+#EXTINF:-1 tvg-name="&TV"tvg-id=""tvg-logo="https://i.imgur.com/32W50Y6.png"tvg-chno=""group-title="Entertainment":http-user-agent="",&TV
+https://amg01117-amg01117c1-amgplt0165.playout.now3.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="Abzy Dhakad"tvg-id=""tvg-logo="https://i.imgur.com/5ORC4tn.png"tvg-chno=""group-title="Entertainment":http-user-agent="",Abzy Dhakad
+https://d2lk5u59tns74c.cloudfront.net/out/v1/4fe6ab07a13543d6bdb2ec63b3e2df44/index.m3u8
 #EXTINF:-1 tvg-name="scifi-world"tvg-id="78"tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/oxsgsi.png"tvg-chno="272"group-title="Entertainment":http-user-agent="YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1",Scifi World
 #EXTVLCOPT:http-user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
 https://in1.sunilprasad.com.np/yuppLive/scifi-world/master.m3u8
