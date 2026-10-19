@@ -154,13 +154,13 @@ https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9hinjzgtpe/liveabr/playlist.m3u8
 https://pl-indiatvnews.akamaized.net/out/v1/db79179b608641ceaa5a4d0dd0dca8da/index.m3u8
 #EXTINF:-1 tvg-name="times-now-navbharat"tvg-id="196"tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/times-now-navbharat.png"tvg-chno="6"group-title="Hindi News":http-user-agent="YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1",Times Now Navbharat
 #EXTVLCOPT:http-user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
-https://amg01448-samsungin-tinnavbharat-samsungin-ad-m8.amagi.tv/playlist/amg01448-samsungin-tinnavbharat-samsungin/playlist.m3u8
+https://streams.tangotv.in/TIMESNOWNAVBHARAT/ORIGIN/index.m3u8
 #EXTINF:-1 tvg-name="good-news-today"tvg-id="250"tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/czbixn.png"tvg-chno="11"group-title="Hindi News":http-user-agent="YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1",Good News Today
 #EXTVLCOPT:http-user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
-https://amg01448-samsungin-tinnavbharat-samsungin-ad-m8.amagi.tv/playlist/amg01448-samsungin-tinnavbharat-samsungin/playlist.m3u8
+https://aajtaklive.vgcdn.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/3196cced-ce29-4219-9809-f07ccdaa02b9/vglive-sk-848805/master.m3u8
 #EXTINF:-1 tvg-name="hindi-khabar"tvg-id="160"tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/hindi-khabar.png"tvg-chno="13"group-title="Hindi News":http-user-agent="YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1",Hindi Khabar
 #EXTVLCOPT:http-user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
-https://cdn-2.pishow.tv/live/1041/master.m3u8
+https://d1msejlow1t3l4.cloudfront.net/fta/hindikhabar/playlist.m3u8
 #EXTINF:-1 tvg-name="ndtv-mp"tvg-id="38"tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/zhhvxq.png"tvg-chno="15"group-title="Hindi News":http-user-agent="YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1",NDTV MP
 #EXTVLCOPT:http-user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
 https://ndtvregional.akamaized.net/hls/live/2102726-b/ndtvmpcg/master_1.m3u8
@@ -170,9 +170,6 @@ https://ndtvregional.akamaized.net/hls/live/2102726-b/ndtvmpcg/master_1.m3u8
 #EXTINF:-1 tvg-name="zee-delhi-ncr-haryana"tvg-id="31"tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/yiuolu.png"tvg-chno="17"group-title="Hindi News":http-user-agent="YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1",Zee Delhi NCR Haryana
 #EXTVLCOPT:http-user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
 https://vg-zeefta.akamaized.net/ptnr-yupptv/title-zeedelhincr/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/cc483a15-1b39-4642-872d-5d08d362ed01/main.m3u8
-#EXTINF:-1 tvg-name="news-11-bharat"tvg-id="161"tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/news-11-bharat.png"tvg-chno="18"group-title="Hindi News":http-user-agent="YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1",News 11 Bharat
-#EXTVLCOPT:http-user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
-https://mumt02.tangotv.in/NEWS11BHARAT/index.m3u8
 #EXTINF:-1 tvg-name="ndtv-rajasthan"tvg-id="39"tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/ehlmdz.png"tvg-chno="20"group-title="Hindi News":http-user-agent="YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1",NDTV Rajasthan
 #EXTVLCOPT:http-user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
 https://ndtvregional.akamaized.net/hls/live/2102726-b/ndtvraj/master_1.m3u8
@@ -187,16 +184,16 @@ https://vg-zeefta.akamaized.net/ptnr-yupptv/title-zeerajashthannews/v1/master/61
 https://vg-zeefta.akamaized.net/ptnr-yupptv/title-zeerajashthannews/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/8e864b9a-1681-41a0-99a6-387490bc5b24/main.m3u8
 #EXTINF:-1 tvg-name="khabrain-abhi-tak"tvg-id="158"tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/qfurxt.png"tvg-chno="26"group-title="Hindi News":http-user-agent="YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1",Khabrain Abhi Tak
 #EXTVLCOPT:http-user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
-https://mumt05.tangotv.in/KHABRAINABHITAK/index.m3u8
+https://d1msejlow1t3l4.cloudfront.net/fta/khabreinabhitak/playlist.m3u8
 #EXTINF:-1 tvg-name="bharat-samachar"tvg-id="159"tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/edjdac.png"tvg-chno="27"group-title="Hindi News":http-user-agent="YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1",Bharat Samachar
 #EXTVLCOPT:http-user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
 https://idvd.multitvsolution.com/idvo/bharatsamachar.m3u8
 #EXTINF:-1 tvg-name="swaraj-express-smbc"tvg-id="151"tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/rwtjzv.png"tvg-chno="28"group-title="Hindi News":http-user-agent="YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1",Swaraj Express SMBC
 #EXTVLCOPT:http-user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
-https://cdn-2.pishow.tv/live/477/master.m3u8
+https://d1msejlow1t3l4.cloudfront.net/fta/swarajexpresssmbc/playlist.m3u8
 #EXTINF:-1 tvg-name="india-voice"tvg-id="134"tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/erinhf.png"tvg-chno="29"group-title="Hindi News":http-user-agent="YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1",India Voice
 #EXTVLCOPT:http-user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
-https://mumt04.tangotv.in/INDIAVOICE/index.m3u8
+https://d1msejlow1t3l4.cloudfront.net/fta/indiavoice/playlist.m3u8
 #EXTINF:-1 tvg-name="network-10"tvg-id="157"tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/network-10.png"tvg-chno="35"group-title="Hindi News":http-user-agent="YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1",Network 10
 #EXTVLCOPT:http-user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
 https://yuppftalive.akamaized.net/080823/network10/playlist.m3u8
@@ -208,7 +205,7 @@ https://aajtakhdlive-amd.akamaized.net/hls/live/2014415/aajtakhd/aajtakhdlive/li
 #EXTINF:-1 tvg-name="Zee Bharat"tvg-id=""tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4e/Zee_Bharat_2024.png/revision/latest?cb=20240314141333"tvg-chno=""group-title="Hindi News":http-user-agent="",Zee Bharat
 https://d1hp2yai3k4ork.cloudfront.net/index_4.m3u8
 #EXTINF:-1 tvg-name="News 24"tvg-id=""tvg-logo="https://i.imgur.com/x72O77X.png"tvg-chno=""group-title="Hindi News":http-user-agent="",News 24
-https://vidcdn.vidgyor.com/news24-origin/liveabr/playlist.m3u8
+https://cdn.pishow.tv/ott/live/253/master.m3u8
 #EXTINF:-1 tvg-name="News 18 India"tvg-id=""tvg-logo="https://i.imgur.com/5VLCwbt.png"tvg-chno=""group-title="Hindi News":http-user-agent="",News 18 India
 https://n18syndication.akamaized.net/bpk-tv/News18_India_NW18_MOB/output01/master.m3u8
 #EXTINF:-1 tvg-name="India News (1080p)"tvg-id=""tvg-logo="https://cdn.imgbin.com/19/13/7/imgbin-india-news-television-channel-itv-network-india-kycbQiQttT6R7ARkwNYusxx3B.jpg"tvg-chno=""group-title="Hindi News":http-user-agent="",India News (1080p)
@@ -216,9 +213,9 @@ https://newsxott.in/hls/indianewsnational.m3u8
 #EXTINF:-1 tvg-name="News Nation"tvg-id=""tvg-logo="https://i.imgur.com/9xeIWqm.png"tvg-chno=""group-title="Hindi News":http-user-agent="",News Nation
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/6cd2f649739a45ca9de1daf81cc7d0f2/index.m3u8
 #EXTINF:-1 tvg-name="Sansad TV Lok Sabha"tvg-id=""tvg-logo="https://yt3.googleusercontent.com/2fK9Y8FCQvlRWuIojyWIywPKRU4TgzfwCTciLzlTOT9wQScACk_7Y9LFuWfBBgoWDZe_UhzQQR0=s900-c-k-c0x00ffffff-no-rj"tvg-chno=""group-title="Hindi News":http-user-agent="",Sansad TV Lok Sabha
-https://hls.media.nic.in/hls/live/lstv/lstv.m3u8
+https://d2lk5u59tns74c.cloudfront.net/out/v1/fff8f20221d5456e8922e689d71dedc3/index.m3u8
 #EXTINF:-1 tvg-name="Sansad TV Rajya Sabha"tvg-id=""tvg-logo="https://yt3.googleusercontent.com/2fK9Y8FCQvlRWuIojyWIywPKRU4TgzfwCTciLzlTOT9wQScACk_7Y9LFuWfBBgoWDZe_UhzQQR0=s900-c-k-c0x00ffffff-no-rj"tvg-chno=""group-title="Hindi News":http-user-agent="",Sansad TV Rajya Sabha
-https://hls.media.nic.in/hls/live/rstv/rstv.m3u8
+https://d2lk5u59tns74c.cloudfront.net/out/v1/e4182054dce340da9e0ff38b6b3658a4/index.m3u8
 #EXTINF:-1 tvg-name="Bharat24"tvg-id="Bharat24.in@SD"tvg-logo="https://i.imgur.com/Jx1OX9N.png"tvg-chno=""group-title="Hindi News":http-user-agent="",Bharat24
 https://legitpro.co.in/bharat24live/bharat24live/index.m3u8
 #EXTINF:-1 tvg-name="Republic Bharat"tvg-id="RepublicBharat.in@SD"tvg-logo="https://i.imgur.com/NEAoh6O.png"tvg-chno=""group-title="Hindi News":http-user-agent="",Republic Bharat
@@ -280,10 +277,12 @@ https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/4d
 #EXTINF:-1 tvg-name="luxury-dreams-tv"tvg-id="271"tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/kuygkv.png"tvg-chno="319"group-title="Lifestyle":http-user-agent="YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1",LUXURY DREAMS TV
 #EXTVLCOPT:http-user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
 https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/2f8307f7-cae4-4b19-afc0-32f4ba4ab4d0/manifest.m3u8
-#EXTINF:-1 tvg-name="unchainedtv"tvg-id="277"tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/gjwmjv.png"tvg-chno="324"group-title="Lifestyle":http-user-agent="YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1",UNCHAINEDTV
+#EXTINF:-1 tvg-name="unchainedtv"tvg-id="277"tvg-logo=""tvg-chno=""group-title="Lifestyle":http-user-agent="YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1",UNCHAINEDTV
 #EXTVLCOPT:http-user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/unchainedtv/master.m3u8?ads.vf=U2bdq2GJGni
-#EXTINF:-1 tvg-name="abp-majha"tvg-id="227"tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/jhfmvj.png"tvg-chno="727"group-title="Marathi News":http-user-agent="YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1",ABP Majha
+#EXTINF:-1 tvg-name="News Marathi 24x7"tvg-id=""tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/channel/cb84d7f7e19bcbfb9b6d664e7fb2adee.png"tvg-chno=""group-title="Marathi News":http-user-agent="",News Marathi 24x7
+https://live1.ottlive.co.in/newsmarathi/newsmarathi/index.m3u8
+#EXTINF:-1 tvg-name="abp-majha"tvg-id="227"tvg-logo="https://dtil.tmsimg.com/assets/s142521_ld_h15_aa.png?lock=720x540"tvg-chno="727"group-title="Marathi News":http-user-agent="YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1",ABP Majha
 #EXTVLCOPT:http-user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
 https://d2l4ar6y3mrs4k.cloudfront.net/live-streaming/majha-livetv/master.m3u8
 #EXTINF:-1 tvg-name="tv9-maharashtra"tvg-id="11"tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/syutfx.png"tvg-chno="728"group-title="Marathi News":http-user-agent="YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1",TV9 Marathi
@@ -294,15 +293,19 @@ https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9marlygv8h/liveabr/playlist.m3u8
 https://dgrvlduwztkd4.cloudfront.net/index_5.m3u8
 #EXTINF:-1 tvg-name="jai-maharashtra"tvg-id="162"tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/jai-maharashtra.png"tvg-chno="730"group-title="Marathi News":http-user-agent="YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1",Jai Maharashtra
 #EXTVLCOPT:http-user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
-https://cdn-3.pishow.tv/live/1465/master.m3u8
+https://d1msejlow1t3l4.cloudfront.net/fta/jaimaharashtra/playlist.m3u8
 #EXTINF:-1 tvg-name="Saam TV"tvg-id=""tvg-logo="https://i.imgur.com/SNsjJjt.png"tvg-chno=""group-title="Marathi News":http-user-agent="",Saam TV
-https://cdn-3.pishow.tv/live/437/master.m3u8
+https://cdn.pishow.tv/ott/live/437/master.m3u8
 #EXTINF:-1 tvg-name="NDTV Marathi"tvg-id=""tvg-logo="https://www.manifest-media.in/cover/prev/uc46r8dskcadge1v9gmd0b04oa-20240502113008.Medi.jpeg"tvg-chno=""group-title="Marathi News":http-user-agent="",NDTV Marathi
 https://web-ndtv-marathi.akamaized.net/hls/live/2110470/ndtvmarathi/master_1.m3u8
 #EXTINF:-1 tvg-name="News 18 Lokmat"tvg-id=""tvg-logo="https://i.imgur.com/SjbtAFh.png"tvg-chno=""group-title="Marathi News":http-user-agent="",News 18 Lokmat
 https://nw18live.cdn.jio.com/bpk-tv/News18_Lokmat_NW18_MOB/output01/index.m3u8
 #EXTINF:-1 tvg-name="Lokshahi News"tvg-id=""tvg-logo="https://i.imgur.com/bpgdafu.png"tvg-chno=""group-title="Marathi News":http-user-agent="",Lokshahi News
-https://see.lokshahi.live/live/index.m3u8
+https://mumt05.tangotv.in/87NeALx2LOKSAAHI/index.m3u8
+#EXTINF:-1 tvg-name="Pudhari News"tvg-id=""tvg-logo=""tvg-chno=""group-title="Marathi News":http-user-agent="",Pudhari News
+https://streams.tangotv.in/PUDHARINEWS/ORIGIN/index.m3u8
+#EXTINF:-1 tvg-name="Top News Marathi"tvg-id=""tvg-logo=""tvg-chno=""group-title="Marathi News":http-user-agent="",Top News Marathi
+https://live1.ottlive.co.in/topnewsmarathi/topnewsmarathi/index.m3u8
 #EXTINF:-1 tvg-name="UCN NEWS"tvg-id=""tvg-logo="https://www.ucnnews.live/assets/img/logo/UCN%20News.png"tvg-chno=""group-title="Marathi News":http-user-agent="",UCN NEWS
 https://ucncable.livebox.co.in/UCNNEWShls/live.m3u8
 #EXTINF:-1 tvg-name="AWAAZ INDIA TV"tvg-id=""tvg-logo="https://awaazindiatv.com/wp-content/uploads/2021/03/awaazindiatv.png"tvg-chno=""group-title="Marathi News":http-user-agent="",AWAAZ INDIA TV
@@ -316,7 +319,7 @@ http://iptvcasomsapi.jprdigital.in/x-media/C0517/master.m3u8
 #EXTINF:-1 tvg-name="Zee Cinema HD (576p)"tvg-id=""tvg-logo="https://www.rdcablenet.com/wp-content/uploads/2019/01/ZEE-CINEMA-HD.png"tvg-chno=""group-title="Movies":http-user-agent="",Zee Cinema HD (576p)
 http://iptvcasomsapi.jprdigital.in/x-media/C0538/master.m3u8
 #EXTINF:-1 tvg-name="Zee Classic (576p)"tvg-id=""tvg-logo="https://www.adgully.com/img/800/61365_zee-classic-logo.jpg"tvg-chno=""group-title="Movies":http-user-agent="",Zee Classic (576p)
-http://103.229.254.25:7001/play/a09w/index.m3u8
+http://107.167.16.138/zeeclassic/index.m3u8?token=test
 #EXTINF:-1 tvg-name="Zee Talkies (576p)"tvg-id=""tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTl8dQkbcyupL1sO1ym9frYR1EInOaEbDdcVw&s"tvg-chno=""group-title="Movies":http-user-agent="",Zee Talkies (576p)
 http://iptvcasomsapi.jprdigital.in/x-media/C0518/master.m3u8
 #EXTINF:-1 tvg-name="Zee Talkies HD (1080p)"tvg-id=""tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ81DFThu_srSWLXnZTLYB_eNI2v1bpPo2EPg&s"tvg-chno=""group-title="Movies":http-user-agent="",Zee Talkies HD (1080p)
@@ -330,19 +333,19 @@ http://iptvcasomsapi.jprdigital.in/x-media/C0381/master.m3u8
 #EXTINF:-1 tvg-name="Sony Max HD (1080p)"tvg-id=""tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/shows/2025-12-18/251218476009.jpg?width=700"tvg-chno=""group-title="Movies":http-user-agent="",Sony Max HD (1080p)
 http://iptvcasomsapi.jprdigital.in/x-media/C0373/master.m3u8
 #EXTINF:-1 tvg-name="PIX HD"tvg-id=""tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTm1wVyVC7kUkIqS5z8xIcC9JoAQUmPcimEog&s"tvg-chno=""group-title="Movies":http-user-agent="",PIX HD
-http://103.229.254.25:7001/play/a0ed/index.m3u8
+http://103.151.60.162:2122/play/a01d/index.m3u8?hls
 #EXTINF:-1 tvg-name="Star Gold (576p)"tvg-id=""tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_muYk3H6cceCnfb1MkJ0MP0ZFyLlIElpCXstEyfm-svPO0=s900-c-k-c0x00ffffff-no-rj"tvg-chno=""group-title="Movies":http-user-agent="",Star Gold (576p)
 http://iptvcasomsapi.jprdigital.in/x-media/C0389/master.m3u8
 #EXTINF:-1 tvg-name="Star Gold 2 (576p)"tvg-id=""tvg-logo="https://etimg.etb2bimg.com/photo/73770383.cms"tvg-chno=""group-title="Movies":http-user-agent="",Star Gold 2 (576p)
 http://iptvcasomsapi.jprdigital.in/x-media/C0390/master.m3u8
 #EXTINF:-1 tvg-name="Star Gold 2 HD (1080p)"tvg-id=""tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdWFPbasoe_o8UpubyEWNsIDRFPpH9kUpxdQ&s"tvg-chno=""group-title="Movies":http-user-agent="",Star Gold 2 HD (1080p)
-http://103.229.254.25:7001/play/a0d0/index.m3u8
+http://103.151.60.162:2122/play/a01v/index.m3u8?hls
 #EXTINF:-1 tvg-name="&flix HD (576p)"tvg-id=""tvg-logo="https://www.rdcablenet.com/wp-content/uploads/2019/01/ANDFLIX-HD.jpg"tvg-chno=""group-title="Movies":http-user-agent="",&flix HD (576p)
 http://iptvcasomsapi.jprdigital.in/x-media/C0540/master.m3u8
 #EXTINF:-1 tvg-name="B4U Kadak"tvg-id="B4UKadak.in@SD"tvg-logo="https://i.imgur.com/CKLn0ft.png"tvg-chno=""group-title="Movies":http-user-agent="",B4U Kadak
-https://cdnb4u.wiseplayout.com/B4U_Kadak/master.m3u8
+https://cdn.pishow.tv/ott/live/227/master.m3u8
 #EXTINF:-1 tvg-name="B4U Movies India"tvg-id="B4UMovies.in@India"tvg-logo="https://i.imgur.com/M9kMFJl.png"tvg-chno=""group-title="Movies":http-user-agent="",B4U Movies India
-https://cdnb4u.wiseplayout.com/B4U_Movies/master.m3u8
+https://cdn.pishow.tv/ott/live/419/master.m3u8
 #EXTINF:-1 tvg-name="Abzy Movies"tvg-id="AbzyMovies.in@SD"tvg-logo="https://i.imgur.com/LnVgKVF.png"tvg-chno=""group-title="Movies":http-user-agent="",Abzy Movies
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/db8d4eca72d64748a00d0631debf542d/index.m3u8
 #EXTINF:-1 tvg-name="Zee Action"tvg-id=""tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/channel/7909a3977e9d8588d73ccc3653d50bde.png"tvg-chno=""group-title="Movies":http-user-agent="",Zee Action
@@ -399,14 +402,18 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-yrfmusic-xiaomi/pl
 https://dai.google.com/linear/hls/event/JCAm25qkRXiKcK1AJMlvKQ/master.m3u8
 #EXTINF:-1 tvg-name="Balle Balle"tvg-id=""tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCDQWzcRfIij6A-mimgJVTd8iEoW7TiW69sg&s"tvg-chno=""group-title="Music":http-user-agent="",Balle Balle
 https://mcncdndigital.com/balleballetv/index.m3u8
-#EXTINF:-1 tvg-name="9XM"tvg-id=""tvg-logo="https://i.imgur.com/F17QtN2.png"tvg-chno=""group-title="Music":http-user-agent="",9XM
-https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/9xm/23886666-8fc5-470f-aab1-bd637ed607b1/3.m3u8
+#EXTINF:-1 tvg-name="Epic Music"tvg-id=""tvg-logo=""tvg-chno=""group-title="Music":http-user-agent="",Epic Music
+https://mumt04.tangotv.in/m18aqlK4EPICMUSIC/index.m3u8
+#EXTINF:-1 tvg-name="Epic Music HD"tvg-id=""tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SHOWBOX/images/LOGO_HD/image.png"tvg-chno=""group-title="Music":http-user-agent="",Epic Music HD
+https://cc-3cyxq80qusspd.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-3cyxq80qusspd/playlist.m3u8
+#EXTINF:-1 tvg-name="9XM"tvg-id=""tvg-logo=""tvg-chno=""group-title="Music":http-user-agent="",9XM
+https://streams.tangotv.in/9XM/ORIGIN/index.m3u8
 #EXTINF:-1 tvg-name="9X Jalwa"tvg-id=""tvg-logo="https://i.imgur.com/qubgOi5.png"tvg-chno=""group-title="Music":http-user-agent="",9X Jalwa
 https://amg01281-9xmediapvtltd-9xjalwa-samsungin-goszf.amagi.tv/playlist/amg01281-9xmediapvtltd-9xjalwa-samsungin/playlist.m3u8
 #EXTINF:-1 tvg-name="9X Jhakaas"tvg-id=""tvg-logo="https://i.imgur.com/aZ0f85I.png"tvg-chno=""group-title="Music":http-user-agent="",9X Jhakaas
 https://amg01281-9xmediapvtltd-9xjhakaas-samsungin-ci2cs.amagi.tv/playlist/amg01281-9xmediapvtltd-9xjhakaas-samsungin/playlist.m3u8
 #EXTINF:-1 tvg-name="B4U Music"tvg-id="B4UMusic.in@India"tvg-logo="https://i.imgur.com/KSxPLJA.png"tvg-chno=""group-title="Music":http-user-agent="",B4U Music
-https://cdnb4u.wiseplayout.com/B4U_Music/master.m3u8
+https://mumbai-edge.smartplaytv.in/B4uMusic/index.m3u8
 #EXTINF:-1 tvg-name="B4U Music APAC (720p)"tvg-id=""tvg-logo="https://i.imgur.com/KSxPLJA.png"tvg-chno=""group-title="Music":http-user-agent="",B4U Music APAC (720p)
 https://edge2.roarzone.info:8447/roarzone/edge3/b4u-music/index.m3u8
 #EXTINF:-1 tvg-name="Deluxe Music (720p)"tvg-id=""tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTF12Ef9S2LgzwTJSxMCoiKzPvvtIwdSaMICg&s"tvg-chno=""group-title="Music":http-user-agent="",Deluxe Music (720p)
@@ -416,7 +423,7 @@ https://dmecgxuzr2ywk.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25
 #EXTINF:-1 tvg-name="Oxygen Music (1080p)"tvg-id=""tvg-logo="https://i1.sndcdn.com/avatars-BFuCGlvJEssJzAii-XznizA-t240x240.jpg"tvg-chno=""group-title="Music":http-user-agent="",Oxygen Music (1080p)
 https://oxygenmusic.hu:2443/hls/oxygenmusic.m3u8
 #EXTINF:-1 tvg-name="Music India"tvg-id="MusicIndia.in@SD"tvg-logo="https://i.imgur.com/kXTCYqg.png"tvg-chno=""group-title="Music":http-user-agent="",Music India
-https://cdn-2.pishow.tv/live/226/master.m3u8
+https://mumt05.tangotv.in/87NeALx2MUSICINDIA/index.m3u8
 #EXTINF:-1 tvg-name="Steelbird Music"tvg-id="126"tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/shows/2026-03-19/2603191184002.jpg?width=700"tvg-chno="68"group-title="Music":http-user-agent="",Steelbird Music
 https://cdn2.in/SteelbirdMusicTVhls/live.m3u8
 #EXTINF:-1 tvg-name="Tabbar Hits"tvg-id=""tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6nTbe9uVObuewotWXYIDEpNsbSI9BC6ucXw&s"tvg-chno=""group-title="Music":http-user-agent="",Tabbar Hits
